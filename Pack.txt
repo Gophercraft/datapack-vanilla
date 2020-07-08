@@ -1,0 +1,9 @@
+{
+	Name gc-vanilla-datapack
+	Author "Content provided by CMaNGOS"
+	Description "Pack for Vanilla servers based on CMaNGOS"
+	ServerScripts
+	{
+		AreaTriggers.lua
+	}
+}
