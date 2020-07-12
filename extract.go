@@ -390,10 +390,7 @@ func main() {
 		panic(err)
 	}
 
-	plc, err := os.OpenFile("DB/PortLocation.txt", os.O_CREATE|os.O_TRUNC|os.O_WRONLY, 0700)
-	if err != nil {
-		panic(err)
-	}
+	plc := openFile("DB/PortLocation.txt")
 
 	printTimestamp(plc)
 	pwr := openTextWriter(plc)
@@ -419,10 +416,7 @@ func main() {
 		panic(err)
 	}
 
-	outFile, err := os.OpenFile("DB/ItemTemplate.txt", os.O_CREATE|os.O_TRUNC|os.O_WRONLY, 0700)
-	if err != nil {
-		panic(err)
-	}
+	outFile := openFile("DB/ItemTemplate.txt")
 
 	printTimestamp(outFile)
 
@@ -536,7 +530,7 @@ func main() {
 		panic(err)
 	}
 
-	gfl, _ := os.OpenFile("DB/GameObjectTemplate.txt", os.O_TRUNC|os.O_CREATE|os.O_RDWR, 0700)
+	gfl := openFile("DB/GameObjectTemplate.txt")
 	printTimestamp(gfl)
 	wr = openTextWriter(gfl)
 
@@ -574,7 +568,7 @@ func main() {
 		panic(err)
 	}
 
-	cfl, _ := os.OpenFile("DB/CreatureTemplate.txt", os.O_TRUNC|os.O_CREATE|os.O_RDWR, 0700)
+	cfl := openFile("DB/CreatureTemplate.txt")
 	wr = openTextWriter(cfl)
 	for _, cr := range ctt {
 		ct := wdb.CreatureTemplate{
@@ -665,15 +659,30 @@ func main() {
 			CountSpawns:              cr.ExtraFlags&0x200000 != 0, // count creature spawns in Map*
 			HasteSpellImmunity:       cr.ExtraFlags&0x400000 != 0, // immunity to COT or Mind Numbing Poison – very common in instances
 
-			Tameable:               cr.CreatureTypeFlags&1 != 0, // Makes the mob tameable (must also be a beast and have family set)
-			VisibleToGhosts:        cr.CreatureTypeFlags&2 != 0, // Sets Creatures that can ALSO be seen when player is a ghost. Used in CanInteract function by client, can’t be attacked
-			BossTooltip:            cr.CreatureTypeFlags&4 != 0,
-			CreatureFactionTooltip: cr.CreatureTypeFlags&16 != 0,    // Controls something in client tooltip related to creature faction
-			HerbLoot:               cr.CreatureTypeFlags&256 != 0,   // Uses Skinning Loot Field
-			MiningLoot:             cr.CreatureTypeFlags&512 != 0,   // Makes Mob Corpse Mineable – Uses Skinning Loot Field
-			CanAssist:              cr.CreatureTypeFlags&4096 != 0,  //	Can aid any player or group in combat. Typically seen for escorting NPC’s
-			PetHasActionBar:        cr.CreatureTypeFlags&8192 != 0,  // 	checked from calls in Lua_PetHasActionBar
-			EngineerLoot:           cr.CreatureTypeFlags&32768 != 0, //	Makes Mob Corpse Engineer Lootable – Uses Skinning Loot Field
+			Tameable:                cr.CreatureTypeFlags&1 != 0, // Makes the mob tameable (must also be a beast and have family set)
+			VisibleToGhosts:         cr.CreatureTypeFlags&2 != 0, // Sets Creatures that can ALSO be seen when player is a ghost. Used in CanInteract function by client, can’t be attacked
+			BossLevel:               cr.CreatureTypeFlags&4 != 0,
+			DontPlayWoundParryAnim:  cr.CreatureTypeFlags&8 != 0,
+			HideFactionTooltip:      cr.CreatureTypeFlags&16 != 0, // Controls something in client tooltip related to creature faction
+			SpellAttackable:         cr.CreatureTypeFlags&64 != 0,
+			DeadInteract:            cr.CreatureTypeFlags&128 != 0,
+			HerbLoot:                cr.CreatureTypeFlags&256 != 0, // Uses Skinning Loot Field
+			MiningLoot:              cr.CreatureTypeFlags&512 != 0, // Makes Mob Corpse Mineable – Uses Skinning Loot Field
+			DontLogDeath:            cr.CreatureTypeFlags&1024 != 0,
+			MountedCombat:           cr.CreatureTypeFlags&2048 != 0,
+			CanAssist:               cr.CreatureTypeFlags&4096 != 0, //	Can aid any player or group in combat. Typically seen for escorting NPC’s
+			PetHasActionBar:         cr.CreatureTypeFlags&8192 != 0, // 	checked from calls in Lua_PetHasActionBar
+			MaskUID:                 cr.CreatureTypeFlags&16384 != 0,
+			EngineerLoot:            cr.CreatureTypeFlags&32768 != 0, //	Makes Mob Corpse Engineer Lootable – Uses Skinning Loot Field
+			ExoticPet:               cr.CreatureTypeFlags&65536 != 0, // Tamable as an exotic pet. Normal tamable flag must also be set.
+			UseDefaultCollisionBox:  cr.CreatureTypeFlags&131072 != 0,
+			IsSiegeWeapon:           cr.CreatureTypeFlags&262144 != 0,
+			ProjectileCollision:     cr.CreatureTypeFlags&524288 != 0,
+			HideNameplate:           cr.CreatureTypeFlags&1048576 != 0,
+			DontPlayMountedAnim:     cr.CreatureTypeFlags&2097152 != 0,
+			IsLinkAll:               cr.CreatureTypeFlags&4194304 != 0,
+			InteractOnlyWithCreator: cr.CreatureTypeFlags&8388608 != 0,
+			ForceGossip:             cr.CreatureTypeFlags&134217728 != 0,
 
 			SpeedWalk:            cr.SpeedWalk,
 			SpeedRun:             cr.SpeedRun,
@@ -815,7 +824,7 @@ func main() {
 		panic(err)
 	}
 
-	fl, _ := os.OpenFile("Scripts/AreaTriggers.lua", os.O_TRUNC|os.O_CREATE|os.O_RDWR, 0700)
+	fl := openFile("Scripts/AreaTriggers.lua")
 	for _, v := range att {
 		fmt.Fprintf(fl, "-- %s\n", v.Name)
 		fmt.Fprintf(fl, "OnAreaTrigger(%d, function(plyr)\n", v.ID)
@@ -853,4 +862,10 @@ func addItemReq(fl *os.File, item uint32) {
 	fmt.Fprintf(fl, "    plyr:SendRequiredItemZoneError(\"it:%d\")\n", item)
 	fmt.Fprintf(fl, "    return\n")
 	fmt.Fprintf(fl, "  end\n\n")
+}
+
+func openFile(out string) *os.File {
+	fmt.Println("Extracting to", out, "...")
+	fl, _ := os.OpenFile(out, os.O_TRUNC|os.O_CREATE|os.O_RDWR, 0700)
+	return fl
 }
