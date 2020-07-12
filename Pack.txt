@@ -2,6 +2,7 @@
 	Name gc-vanilla-datapack
 	Author "Content provided by CMaNGOS"
 	Description "Pack for Vanilla servers based on CMaNGOS"
+	Version 0.2
 	ServerScripts
 	{
 		AreaTriggers.lua
