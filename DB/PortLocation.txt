@@ -1,4 +1,4 @@
-// DO NOT EDIT: extracted from CMaNGOS database on Sat Jul 11 23:41:31 EDT 2020
+// DO NOT EDIT: extracted from CMaNGOS database on Sun Jul 12 11:06:15 EDT 2020
 {
 	ID RuinsOfAndorhal
 	X 1400.61

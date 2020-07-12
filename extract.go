@@ -17,6 +17,21 @@ import (
 	"xorm.io/xorm"
 )
 
+type PlayerCreateInfo struct {
+	Race  uint8   `xorm:"'race'"`
+	Class uint8   `xorm:"'class'"`
+	Map   uint32  `xorm:"'map'"`
+	Zone  uint32  `xorm:"'zone'"`
+	X     float32 `xorm:"'position_x'"`
+	Y     float32 `xorm:"'position_y'"`
+	Z     float32 `xorm:"'position_z'"`
+	O     float32 `xorm:"'orientation'"`
+}
+
+func (pci PlayerCreateInfo) TableName() string {
+	return "playercreateinfo"
+}
+
 type GameTele struct {
 	ID          int64   `xorm:"'id'"`
 	PositionX   float32 `xorm:"'position_x'"`
@@ -852,6 +867,24 @@ func main() {
 
 		fmt.Fprintf(fl, "  plyr:Teleport(%d, %f, %f, %f, %f)\n", v.TargetMap, v.TargetPositionX, v.TargetPositionY, v.TargetPositionZ, v.TargetPositionO)
 		fmt.Fprintf(fl, "end)\n\n")
+	}
+
+	fl.Close()
+
+	fl = openFile("DB/PlayerCreateInfo.txt")
+	wr = text.NewEncoder(fl)
+
+	var pCreateInfo []PlayerCreateInfo
+
+	err = c.Find(&pCreateInfo)
+	if err != nil {
+		panic(err)
+	}
+
+	for _, pci := range pCreateInfo {
+		if err := wr.Encode(pci); err != nil {
+			panic(err)
+		}
 	}
 
 	fl.Close()

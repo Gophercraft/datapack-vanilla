@@ -1,0 +1,355 @@
+{
+	Race 1
+	Class 1
+	Zone 12
+	X -8949.95
+	Y -132.493
+	Z 83.5312
+}
+{
+	Race 1
+	Class 2
+	Zone 12
+	X -8949.95
+	Y -132.493
+	Z 83.5312
+}
+{
+	Race 1
+	Class 4
+	Zone 12
+	X -8949.95
+	Y -132.493
+	Z 83.5312
+}
+{
+	Race 1
+	Class 5
+	Zone 12
+	X -8949.95
+	Y -132.493
+	Z 83.5312
+}
+{
+	Race 1
+	Class 8
+	Zone 12
+	X -8949.95
+	Y -132.493
+	Z 83.5312
+}
+{
+	Race 1
+	Class 9
+	Zone 12
+	X -8949.95
+	Y -132.493
+	Z 83.5312
+}
+{
+	Race 2
+	Class 1
+	Map 1
+	Zone 14
+	X -618.518
+	Y -4251.67
+	Z 38.718
+}
+{
+	Race 2
+	Class 3
+	Map 1
+	Zone 14
+	X -618.518
+	Y -4251.67
+	Z 38.718
+}
+{
+	Race 2
+	Class 4
+	Map 1
+	Zone 14
+	X -618.518
+	Y -4251.67
+	Z 38.718
+}
+{
+	Race 2
+	Class 7
+	Map 1
+	Zone 14
+	X -618.518
+	Y -4251.67
+	Z 38.718
+}
+{
+	Race 2
+	Class 9
+	Map 1
+	Zone 14
+	X -618.518
+	Y -4251.67
+	Z 38.718
+}
+{
+	Race 3
+	Class 1
+	Zone 1
+	X -6240.32
+	Y 331.033
+	Z 382.758
+	O 6.17716
+}
+{
+	Race 3
+	Class 2
+	Zone 1
+	X -6240.32
+	Y 331.033
+	Z 382.758
+	O 6.17716
+}
+{
+	Race 3
+	Class 3
+	Zone 1
+	X -6240.32
+	Y 331.033
+	Z 382.758
+	O 6.17716
+}
+{
+	Race 3
+	Class 4
+	Zone 1
+	X -6240.32
+	Y 331.033
+	Z 382.758
+	O 6.17716
+}
+{
+	Race 3
+	Class 5
+	Zone 1
+	X -6240.32
+	Y 331.033
+	Z 382.758
+	O 6.17716
+}
+{
+	Race 4
+	Class 1
+	Map 1
+	Zone 141
+	X 10311.3
+	Y 831.463
+	Z 1326.41
+	O 5.48033
+}
+{
+	Race 4
+	Class 3
+	Map 1
+	Zone 141
+	X 10311.3
+	Y 831.463
+	Z 1326.41
+	O 5.48033
+}
+{
+	Race 4
+	Class 4
+	Map 1
+	Zone 141
+	X 10311.3
+	Y 831.463
+	Z 1326.41
+	O 5.48033
+}
+{
+	Race 4
+	Class 5
+	Map 1
+	Zone 141
+	X 10311.3
+	Y 831.463
+	Z 1326.41
+	O 5.48033
+}
+{
+	Race 4
+	Class 11
+	Map 1
+	Zone 141
+	X 10311.3
+	Y 831.463
+	Z 1326.41
+	O 5.48033
+}
+{
+	Race 5
+	Class 1
+	Zone 85
+	X 1676.35
+	Y 1677.45
+	Z 121.67
+	O 2.70526
+}
+{
+	Race 5
+	Class 4
+	Zone 85
+	X 1676.35
+	Y 1677.45
+	Z 121.67
+	O 2.70526
+}
+{
+	Race 5
+	Class 5
+	Zone 85
+	X 1676.35
+	Y 1677.45
+	Z 121.67
+	O 2.70526
+}
+{
+	Race 5
+	Class 8
+	Zone 85
+	X 1676.35
+	Y 1677.45
+	Z 121.67
+	O 2.70526
+}
+{
+	Race 5
+	Class 9
+	Zone 85
+	X 1676.35
+	Y 1677.45
+	Z 121.67
+	O 2.70526
+}
+{
+	Race 6
+	Class 1
+	Map 1
+	Zone 215
+	X -2917.58
+	Y -257.98
+	Z 52.9968
+}
+{
+	Race 6
+	Class 3
+	Map 1
+	Zone 215
+	X -2917.58
+	Y -257.98
+	Z 52.9968
+}
+{
+	Race 6
+	Class 7
+	Map 1
+	Zone 215
+	X -2917.58
+	Y -257.98
+	Z 52.9968
+}
+{
+	Race 6
+	Class 11
+	Map 1
+	Zone 215
+	X -2917.58
+	Y -257.98
+	Z 52.9968
+}
+{
+	Race 7
+	Class 1
+	Zone 1
+	X -6240.32
+	Y 331.033
+	Z 382.758
+}
+{
+	Race 7
+	Class 4
+	Zone 1
+	X -6240.32
+	Y 331.033
+	Z 382.758
+}
+{
+	Race 7
+	Class 8
+	Zone 1
+	X -6240.32
+	Y 331.033
+	Z 382.758
+}
+{
+	Race 7
+	Class 9
+	Zone 1
+	X -6240.32
+	Y 331.033
+	Z 382.758
+}
+{
+	Race 8
+	Class 1
+	Map 1
+	Zone 14
+	X -618.518
+	Y -4251.67
+	Z 38.718
+}
+{
+	Race 8
+	Class 3
+	Map 1
+	Zone 14
+	X -618.518
+	Y -4251.67
+	Z 38.718
+}
+{
+	Race 8
+	Class 4
+	Map 1
+	Zone 14
+	X -618.518
+	Y -4251.67
+	Z 38.718
+}
+{
+	Race 8
+	Class 5
+	Map 1
+	Zone 14
+	X -618.518
+	Y -4251.67
+	Z 38.718
+}
+{
+	Race 8
+	Class 7
+	Map 1
+	Zone 14
+	X -618.518
+	Y -4251.67
+	Z 38.718
+}
+{
+	Race 8
+	Class 8
+	Map 1
+	Zone 14
+	X -618.518
+	Y -4251.67
+	Z 38.718
+}
