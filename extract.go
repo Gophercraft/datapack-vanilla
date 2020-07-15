@@ -6,16 +6,142 @@ import (
 	"os"
 	"reflect"
 
+	_ "github.com/go-sql-driver/mysql"
 	"github.com/superp00t/etc/yo"
 	"github.com/superp00t/gophercraft/datapack"
 	"github.com/superp00t/gophercraft/datapack/text"
 	"github.com/superp00t/gophercraft/econ"
+	"github.com/superp00t/gophercraft/i18n"
 	"github.com/superp00t/gophercraft/packet/update"
 	"github.com/superp00t/gophercraft/worldserver/wdb"
-
-	_ "github.com/go-sql-driver/mysql"
 	"xorm.io/xorm"
 )
+
+type NPCText struct {
+	ID      uint32  `xorm:"'id'"`
+	Text0_0 string  `xorm:"'text0_0'"`
+	Text0_1 string  `xorm:"'text0_1'"`
+	Lang0   uint32  `xorm:"'lang0'"`
+	Prob0   float32 `xorm:"'prob0'"`
+	Em0_0   uint32  `xorm:"'em0_0'"`
+	Em0_1   uint32  `xorm:"'em0_1'"`
+	Em0_2   uint32  `xorm:"'em0_2'"`
+	Em0_3   uint32  `xorm:"'em0_3'"`
+	Em0_4   uint32  `xorm:"'em0_4'"`
+	Em0_5   uint32  `xorm:"'em0_5'"`
+	Text1_0 string  `xorm:"'text1_0'"`
+	Text1_1 string  `xorm:"'text1_1'"`
+	Lang1   uint32  `xorm:"'lang1'"`
+	Prob1   float32 `xorm:"'prob1'"`
+	Em1_0   uint32  `xorm:"'em1_0'"`
+	Em1_1   uint32  `xorm:"'em1_1'"`
+	Em1_2   uint32  `xorm:"'em1_2'"`
+	Em1_3   uint32  `xorm:"'em1_3'"`
+	Em1_4   uint32  `xorm:"'em1_4'"`
+	Em1_5   uint32  `xorm:"'em1_5'"`
+	Text2_0 string  `xorm:"'text2_0'"`
+	Text2_1 string  `xorm:"'text2_1'"`
+	Lang2   uint32  `xorm:"'lang2'"`
+	Prob2   float32 `xorm:"'prob2'"`
+	Em2_0   uint32  `xorm:"'em2_0'"`
+	Em2_1   uint32  `xorm:"'em2_1'"`
+	Em2_2   uint32  `xorm:"'em2_2'"`
+	Em2_3   uint32  `xorm:"'em2_3'"`
+	Em2_4   uint32  `xorm:"'em2_4'"`
+	Em2_5   uint32  `xorm:"'em2_5'"`
+	Text3_0 string  `xorm:"'text3_0'"`
+	Text3_1 string  `xorm:"'text3_1'"`
+	Lang3   uint32  `xorm:"'lang3'"`
+	Prob3   float32 `xorm:"'prob3'"`
+	Em3_0   uint32  `xorm:"'em3_0'"`
+	Em3_1   uint32  `xorm:"'em3_1'"`
+	Em3_2   uint32  `xorm:"'em3_2'"`
+	Em3_3   uint32  `xorm:"'em3_3'"`
+	Em3_4   uint32  `xorm:"'em3_4'"`
+	Em3_5   uint32  `xorm:"'em3_5'"`
+	Text4_0 string  `xorm:"'text4_0'"`
+	Text4_1 string  `xorm:"'text4_1'"`
+	Lang4   uint32  `xorm:"'lang4'"`
+	Prob4   float32 `xorm:"'prob4'"`
+	Em4_0   uint32  `xorm:"'em4_0'"`
+	Em4_1   uint32  `xorm:"'em4_1'"`
+	Em4_2   uint32  `xorm:"'em4_2'"`
+	Em4_3   uint32  `xorm:"'em4_3'"`
+	Em4_4   uint32  `xorm:"'em4_4'"`
+	Em4_5   uint32  `xorm:"'em4_5'"`
+	Text5_0 string  `xorm:"'text5_0'"`
+	Text5_1 string  `xorm:"'text5_1'"`
+	Lang5   uint32  `xorm:"'lang5'"`
+	Prob5   float32 `xorm:"'prob5'"`
+	Em5_0   uint32  `xorm:"'em5_0'"`
+	Em5_1   uint32  `xorm:"'em5_1'"`
+	Em5_2   uint32  `xorm:"'em5_2'"`
+	Em5_3   uint32  `xorm:"'em5_3'"`
+	Em5_4   uint32  `xorm:"'em5_4'"`
+	Em5_5   uint32  `xorm:"'em5_5'"`
+	Text6_0 string  `xorm:"'text6_0'"`
+	Text6_1 string  `xorm:"'text6_1'"`
+	Lang6   uint32  `xorm:"'lang6'"`
+	Prob6   float32 `xorm:"'prob6'"`
+	Em6_0   uint32  `xorm:"'em6_0'"`
+	Em6_1   uint32  `xorm:"'em6_1'"`
+	Em6_2   uint32  `xorm:"'em6_2'"`
+	Em6_3   uint32  `xorm:"'em6_3'"`
+	Em6_4   uint32  `xorm:"'em6_4'"`
+	Em6_5   uint32  `xorm:"'em6_5'"`
+	Text7_0 string  `xorm:"'text7_0'"`
+	Text7_1 string  `xorm:"'text7_1'"`
+	Lang7   uint32  `xorm:"'lang7'"`
+	Prob7   float32 `xorm:"'prob7'"`
+	Em7_0   uint32  `xorm:"'em7_0'"`
+	Em7_1   uint32  `xorm:"'em7_1'"`
+	Em7_2   uint32  `xorm:"'em7_2'"`
+	Em7_3   uint32  `xorm:"'em7_3'"`
+	Em7_4   uint32  `xorm:"'em7_4'"`
+	Em7_5   uint32  `xorm:"'em7_5'"`
+}
+
+func (nt NPCText) TableName() string {
+	return "npc_text"
+}
+
+func (nt NPCText) GetOption(idx int) wdb.NPCTextOption {
+	var to wdb.NPCTextOption
+	val := reflect.ValueOf(nt)
+	if val.IsZero() {
+		return to
+	}
+
+	to.Masc = i18n.GetEnglish(val.FieldByName(fmt.Sprintf("Text%d_0", idx)).String())
+	to.Fem = i18n.GetEnglish(val.FieldByName(fmt.Sprintf("Text%d_1", idx)).String())
+	// Duplicates waste storage.
+	if to.Masc.String() != "" && to.Masc.String() == to.Fem.String() {
+		to.Fem = nil
+	}
+
+	if to.Fem.String() != "" && to.Masc.String() == to.Fem.String() {
+		to.Masc = nil
+	}
+
+	to.Lang = uint32(val.FieldByName(fmt.Sprintf("Lang%d", idx)).Uint())
+	to.Prob = float32(val.FieldByName(fmt.Sprintf("Prob%d", idx)).Float())
+
+	for x := 0; x < 6; x += 2 {
+		emoteDelay := uint32(val.FieldByName(fmt.Sprintf("Em%d_%d", idx, x)).Uint())
+
+		strName := fmt.Sprintf("Em%d_%d", idx, x+1)
+		emote := uint32(val.FieldByName(strName).Uint())
+
+		if emoteDelay != 0 || emote != 0 {
+			to.Emote = append(to.Emote, wdb.NPCTextOptionEmote{
+				Delay: emoteDelay,
+				ID:    emote,
+			})
+		}
+	}
+
+	return to
+}
 
 type PlayerCreateInfo struct {
 	Race  uint8   `xorm:"'race'"`
@@ -431,11 +557,40 @@ func main() {
 		panic(err)
 	}
 
-	outFile := openFile("DB/ItemTemplate.txt")
+	fl := openFile("DB/NPCText.txt")
+	wr := text.NewEncoder(fl)
 
-	printTimestamp(outFile)
+	var npcText []NPCText
 
-	wr := openTextWriter(outFile)
+	err = c.Find(&npcText)
+	if err != nil {
+		panic(err)
+	}
+
+	for _, text := range npcText {
+		var nt wdb.NPCText
+
+		nt.ID = fmt.Sprintf("nt:%d", text.ID)
+		for x := 0; x < 8; x++ {
+			opt := text.GetOption(x)
+
+			if reflect.ValueOf(opt).IsZero() == false {
+				nt.Opts = append(nt.Opts, opt)
+			}
+		}
+
+		if err := wr.Encode(nt); err != nil {
+			panic(err)
+		}
+	}
+
+	fl.Close()
+
+	fl = openFile("DB/ItemTemplate.txt")
+
+	printTimestamp(fl)
+
+	wr = openTextWriter(fl)
 
 	for _, t := range itt {
 		var stats []wdb.ItemStat
@@ -472,7 +627,7 @@ func main() {
 			ID:                        fmt.Sprintf("it:%d", t.Entry),
 			Class:                     t.Class,
 			Subclass:                  t.Subclass,
-			Name:                      t.Name,
+			Name:                      i18n.GetEnglish(t.Name),
 			DisplayID:                 t.DisplayID,
 			Quality:                   t.Quality,
 			Flags:                     flags.String(), //todo: convert flags to a readable form
@@ -507,7 +662,7 @@ func main() {
 			RangedModRange:            t.RangedModRange,
 			Spells:                    spell,
 			Bonding:                   t.Bonding,
-			Description:               t.Description,
+			Description:               i18n.GetEnglish(t.Description),
 			PageText:                  t.PageText,
 			LanguageID:                t.LanguageID,
 			PageMaterial:              t.PageMaterial,
@@ -535,7 +690,7 @@ func main() {
 		}
 	}
 
-	outFile.Close()
+	fl.Close()
 
 	itt = nil
 
@@ -560,7 +715,7 @@ func main() {
 			ID:        fmt.Sprintf("go:%d", v.Entry),
 			Type:      v.Type,
 			DisplayID: v.DisplayID,
-			Name:      v.Name,
+			Name:      i18n.GetEnglish(v.Name),
 			// IconName:       v.IconName,
 			// CastBarCaption: v.CastBarCaption,
 			Faction:       v.Faction,
@@ -589,8 +744,8 @@ func main() {
 		ct := wdb.CreatureTemplate{
 			ID:                  fmt.Sprintf("cr:%d", cr.Entry),
 			Entry:               cr.Entry,
-			Name:                cr.Name,
-			SubName:             cr.Name,
+			Name:                i18n.GetEnglish(cr.Name),
+			SubName:             i18n.GetEnglish(cr.SubName),
 			MinLevel:            cr.MinLevel,
 			MaxLevel:            cr.MaxLevel,
 			Faction:             cr.Faction,
@@ -746,7 +901,7 @@ func main() {
 			TrainerRace:          cr.TrainerRace,
 			TrainerTemplateId:    cr.TrainerTemplateId,
 			VendorTemplateId:     cr.VendorTemplateId,
-			GossipMenuId:         cr.GossipMenuId,
+			GossipMenuId:         fmt.Sprintf("%d", cr.GossipMenuId),
 			EquipmentTemplateId:  cr.EquipmentTemplateId,
 			DishonourableKill:    cr.Civilian == 1,
 			AIName:               cr.AIName,
@@ -839,7 +994,7 @@ func main() {
 		panic(err)
 	}
 
-	fl := openFile("Scripts/AreaTriggers.lua")
+	fl = openFile("Scripts/AreaTriggers.lua")
 	for _, v := range att {
 		fmt.Fprintf(fl, "-- %s\n", v.Name)
 		fmt.Fprintf(fl, "OnAreaTrigger(%d, function(plyr)\n", v.ID)
@@ -888,6 +1043,7 @@ func main() {
 	}
 
 	fl.Close()
+
 }
 
 func addItemReq(fl *os.File, item uint32) {
