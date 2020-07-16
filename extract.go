@@ -112,15 +112,9 @@ func (nt NPCText) GetOption(idx int) wdb.NPCTextOption {
 		return to
 	}
 
-	to.Masc = i18n.GetEnglish(val.FieldByName(fmt.Sprintf("Text%d_0", idx)).String())
-	to.Fem = i18n.GetEnglish(val.FieldByName(fmt.Sprintf("Text%d_1", idx)).String())
-	// Duplicates waste storage.
-	if to.Masc.String() != "" && to.Masc.String() == to.Fem.String() {
-		to.Fem = nil
-	}
-
-	if to.Fem.String() != "" && to.Masc.String() == to.Fem.String() {
-		to.Masc = nil
+	to.Text = i18n.GetEnglish(val.FieldByName(fmt.Sprintf("Text%d_0", idx)).String())
+	if to.Text == nil {
+		to.Text = i18n.GetEnglish(val.FieldByName(fmt.Sprintf("Text%d_1", idx)).String())
 	}
 
 	to.Lang = uint32(val.FieldByName(fmt.Sprintf("Lang%d", idx)).Uint())
