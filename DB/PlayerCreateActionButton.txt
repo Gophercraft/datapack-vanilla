@@ -347,31 +347,31 @@
 {
 	Race 3
 	Class 1
-	Button 72
+	Button 0
 	Action 6603
 }
 {
 	Race 3
 	Class 1
-	Button 73
+	Button 1
 	Action 78
 }
 {
 	Race 3
 	Class 1
-	Button 74
+	Button 2
 	Action 20594
 }
 {
 	Race 3
 	Class 1
-	Button 75
+	Button 3
 	Action 2481
 }
 {
 	Race 3
 	Class 1
-	Button 83
+	Button 11
 	Action 117
 	Type 128
 }
@@ -887,19 +887,19 @@
 {
 	Race 6
 	Class 1
-	Button 1
+	Button 0
 	Action 6603
 }
 {
 	Race 6
 	Class 1
-	Button 2
+	Button 1
 	Action 78
 }
 {
 	Race 6
 	Class 1
-	Button 3
+	Button 2
 	Action 20549
 }
 {
