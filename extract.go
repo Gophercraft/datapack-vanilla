@@ -553,27 +553,28 @@ func main() {
 		panic(err)
 	}
 
-	var pca []PlayerCreateActionButton
-	err = c.Find(&pca)
-	if err != nil {
-		panic(err)
-	}
-	fl := openFile("DB/PlayerCreateActionButton.txt")
-	printTimestamp(fl)
-	wr := openTextWriter(fl)
-	for _, pcab := range pca {
-		if err := wr.Encode(wdb.PlayerCreateActionButton{
-			Race:   int8(pcab.Race),
-			Class:  int8(pcab.Class),
-			Button: pcab.Button,
-			Action: pcab.Action,
-			Type:   pcab.Type,
-		}); err != nil {
-			panic(err)
-		}
-	}
+	// Disabled due to containing incorrect results.
+	// var pca []PlayerCreateActionButton
+	// err = c.Find(&pca)
+	// if err != nil {
+	// 	panic(err)
+	// }
+	// fl := openFile("DB/PlayerCreateActionButton.txt")
+	// printTimestamp(fl)
+	// wr := openTextWriter(fl)
+	// for _, pcab := range pca {
+	// 	if err := wr.Encode(wdb.PlayerCreateActionButton{
+	// 		Race:   int8(pcab.Race),
+	// 		Class:  int8(pcab.Class),
+	// 		Button: pcab.Button,
+	// 		Action: pcab.Action,
+	// 		Type:   pcab.Type,
+	// 	}); err != nil {
+	// 		panic(err)
+	// 	}
+	// }
 
-	fl.Close()
+	// fl.Close()
 
 	var pcs []PlayerCreateInfoSpell
 	err = c.Find(&pcs)

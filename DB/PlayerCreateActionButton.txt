@@ -1,4 +1,4 @@
-// DO NOT EDIT: extracted from CMaNGOS database on Fri Jul 17 22:58:55 EDT 2020
+// Extracted from CMaNGOS initially, but is modified and can be edited.
 {
 	Race 1
 	Class 1
@@ -887,25 +887,25 @@
 {
 	Race 6
 	Class 1
-	Button 72
+	Button 1
 	Action 6603
 }
 {
 	Race 6
 	Class 1
-	Button 73
+	Button 2
 	Action 78
 }
 {
 	Race 6
 	Class 1
-	Button 74
+	Button 3
 	Action 20549
 }
 {
 	Race 6
 	Class 1
-	Button 83
+	Button 11
 	Action 4540
 	Type 128
 }
