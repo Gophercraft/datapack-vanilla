@@ -1,4 +1,4 @@
-// DO NOT EDIT: extracted from CMaNGOS database on Wed Jul 15 20:39:13 EDT 2020
+// DO NOT EDIT: extracted from CMaNGOS database on Fri Jul 17 22:59:14 EDT 2020
 {
 	ID go:31
 	Type 2

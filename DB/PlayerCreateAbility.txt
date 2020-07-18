@@ -1,0 +1,8983 @@
+// DO NOT EDIT: extracted from CMaNGOS database on Fri Jul 17 22:58:55 EDT 2020
+{
+	Race 1
+	Class 1
+	Spell 78
+	Note "Heroic Strike"
+}
+{
+	Race 1
+	Class 1
+	Spell 81
+	Note Dodge
+}
+{
+	Race 1
+	Class 1
+	Spell 107
+	Note Block
+}
+{
+	Race 1
+	Class 1
+	Spell 196
+	Note "One-Handed Axes"
+}
+{
+	Race 1
+	Class 1
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 1
+	Class 1
+	Spell 201
+	Note "One-Handed Swords"
+}
+{
+	Race 1
+	Class 1
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 1
+	Class 1
+	Spell 204
+	Note Defense
+}
+{
+	Race 1
+	Class 1
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 1
+	Class 1
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 1
+	Class 1
+	Spell 2382
+	Note Generic
+}
+{
+	Race 1
+	Class 1
+	Spell 2457
+	Note "Battle Stance"
+}
+{
+	Race 1
+	Class 1
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 1
+	Class 1
+	Spell 3050
+	Note Detect
+}
+{
+	Race 1
+	Class 1
+	Spell 3365
+	Note Opening
+}
+{
+	Race 1
+	Class 1
+	Spell 5301
+	Note "Defensive State (DND)"
+}
+{
+	Race 1
+	Class 1
+	Spell 6233
+	Note Closing
+}
+{
+	Race 1
+	Class 1
+	Spell 6246
+	Note Closing
+}
+{
+	Race 1
+	Class 1
+	Spell 6247
+	Note Opening
+}
+{
+	Race 1
+	Class 1
+	Spell 6477
+	Note Opening
+}
+{
+	Race 1
+	Class 1
+	Spell 6478
+	Note Opening
+}
+{
+	Race 1
+	Class 1
+	Spell 6603
+	Note Attack
+}
+{
+	Race 1
+	Class 1
+	Spell 7266
+	Note Duel
+}
+{
+	Race 1
+	Class 1
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 1
+	Class 1
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 1
+	Class 1
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 1
+	Class 1
+	Spell 8737
+	Note Mail
+}
+{
+	Race 1
+	Class 1
+	Spell 9077
+	Note Leather
+}
+{
+	Race 1
+	Class 1
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 1
+	Class 1
+	Spell 9116
+	Note Shield
+}
+{
+	Race 1
+	Class 1
+	Spell 9125
+	Note Generic
+}
+{
+	Race 1
+	Class 1
+	Spell 20597
+	Note "Sword Specialization"
+}
+{
+	Race 1
+	Class 1
+	Spell 20598
+	Note "The Human Spirit"
+}
+{
+	Race 1
+	Class 1
+	Spell 20599
+	Note Diplomacy
+}
+{
+	Race 1
+	Class 1
+	Spell 20600
+	Note Perception
+}
+{
+	Race 1
+	Class 1
+	Spell 20864
+	Note "Mace Specialization"
+}
+{
+	Race 1
+	Class 1
+	Spell 21651
+	Note Opening
+}
+{
+	Race 1
+	Class 1
+	Spell 21652
+	Note Closing
+}
+{
+	Race 1
+	Class 1
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 1
+	Class 1
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 1
+	Class 2
+	Spell 81
+	Note Dodge
+}
+{
+	Race 1
+	Class 2
+	Spell 107
+	Note Block
+}
+{
+	Race 1
+	Class 2
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 1
+	Class 2
+	Spell 199
+	Note "Two-Handed Maces"
+}
+{
+	Race 1
+	Class 2
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 1
+	Class 2
+	Spell 204
+	Note Defense
+}
+{
+	Race 1
+	Class 2
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 1
+	Class 2
+	Spell 635
+	Note "Holy Light"
+}
+{
+	Race 1
+	Class 2
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 1
+	Class 2
+	Spell 2382
+	Note Generic
+}
+{
+	Race 1
+	Class 2
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 1
+	Class 2
+	Spell 3050
+	Note Detect
+}
+{
+	Race 1
+	Class 2
+	Spell 3365
+	Note Opening
+}
+{
+	Race 1
+	Class 2
+	Spell 6233
+	Note Closing
+}
+{
+	Race 1
+	Class 2
+	Spell 6246
+	Note Closing
+}
+{
+	Race 1
+	Class 2
+	Spell 6247
+	Note Opening
+}
+{
+	Race 1
+	Class 2
+	Spell 6477
+	Note Opening
+}
+{
+	Race 1
+	Class 2
+	Spell 6478
+	Note Opening
+}
+{
+	Race 1
+	Class 2
+	Spell 6603
+	Note Attack
+}
+{
+	Race 1
+	Class 2
+	Spell 7266
+	Note Duel
+}
+{
+	Race 1
+	Class 2
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 1
+	Class 2
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 1
+	Class 2
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 1
+	Class 2
+	Spell 8737
+	Note Mail
+}
+{
+	Race 1
+	Class 2
+	Spell 9077
+	Note Leather
+}
+{
+	Race 1
+	Class 2
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 1
+	Class 2
+	Spell 9116
+	Note Shield
+}
+{
+	Race 1
+	Class 2
+	Spell 9125
+	Note Generic
+}
+{
+	Race 1
+	Class 2
+	Spell 20597
+	Note "Sword Specialization"
+}
+{
+	Race 1
+	Class 2
+	Spell 20598
+	Note "The Human Spirit"
+}
+{
+	Race 1
+	Class 2
+	Spell 20599
+	Note Diplomacy
+}
+{
+	Race 1
+	Class 2
+	Spell 20600
+	Note Perception
+}
+{
+	Race 1
+	Class 2
+	Spell 20864
+	Note "Mace Specialization"
+}
+{
+	Race 1
+	Class 2
+	Spell 20154
+	Note "Seal of Righteousness"
+}
+{
+	Race 1
+	Class 2
+	Spell 21651
+	Note Opening
+}
+{
+	Race 1
+	Class 2
+	Spell 21652
+	Note Closing
+}
+{
+	Race 1
+	Class 2
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 1
+	Class 2
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 1
+	Class 2
+	Spell 27762
+	Note Libram
+}
+{
+	Race 1
+	Class 4
+	Spell 81
+	Note Dodge
+}
+{
+	Race 1
+	Class 4
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 1
+	Class 4
+	Spell 204
+	Note Defense
+}
+{
+	Race 1
+	Class 4
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 1
+	Class 4
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 1
+	Class 4
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 1
+	Class 4
+	Spell 1752
+	Note "Sinister Strike"
+}
+{
+	Race 1
+	Class 4
+	Spell 2098
+	Note Eviscerate
+}
+{
+	Race 1
+	Class 4
+	Spell 2382
+	Note Generic
+}
+{
+	Race 1
+	Class 4
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 1
+	Class 4
+	Spell 2567
+	Note Thrown
+}
+{
+	Race 1
+	Class 4
+	Spell 2764
+	Note Throw
+}
+{
+	Race 1
+	Class 4
+	Spell 3050
+	Note Detect
+}
+{
+	Race 1
+	Class 4
+	Spell 3365
+	Note Opening
+}
+{
+	Race 1
+	Class 4
+	Spell 6233
+	Note Closing
+}
+{
+	Race 1
+	Class 4
+	Spell 6246
+	Note Closing
+}
+{
+	Race 1
+	Class 4
+	Spell 6247
+	Note Opening
+}
+{
+	Race 1
+	Class 4
+	Spell 6477
+	Note Opening
+}
+{
+	Race 1
+	Class 4
+	Spell 6478
+	Note Opening
+}
+{
+	Race 1
+	Class 4
+	Spell 6603
+	Note Attack
+}
+{
+	Race 1
+	Class 4
+	Spell 7266
+	Note Duel
+}
+{
+	Race 1
+	Class 4
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 1
+	Class 4
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 1
+	Class 4
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 1
+	Class 4
+	Spell 9077
+	Note Leather
+}
+{
+	Race 1
+	Class 4
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 1
+	Class 4
+	Spell 9125
+	Note Generic
+}
+{
+	Race 1
+	Class 4
+	Spell 16092
+	Note "Defensive State (DND)"
+}
+{
+	Race 1
+	Class 4
+	Spell 20597
+	Note "Sword Specialization"
+}
+{
+	Race 1
+	Class 4
+	Spell 20598
+	Note "The Human Spirit"
+}
+{
+	Race 1
+	Class 4
+	Spell 20599
+	Note Diplomacy
+}
+{
+	Race 1
+	Class 4
+	Spell 20600
+	Note Perception
+}
+{
+	Race 1
+	Class 4
+	Spell 20864
+	Note "Mace Specialization"
+}
+{
+	Race 1
+	Class 4
+	Spell 21184
+	Note "Rogue Passive (DND)"
+}
+{
+	Race 1
+	Class 4
+	Spell 21651
+	Note Opening
+}
+{
+	Race 1
+	Class 4
+	Spell 21652
+	Note Closing
+}
+{
+	Race 1
+	Class 4
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 1
+	Class 4
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 1
+	Class 5
+	Spell 81
+	Note Dodge
+}
+{
+	Race 1
+	Class 5
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 1
+	Class 5
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 1
+	Class 5
+	Spell 204
+	Note Defense
+}
+{
+	Race 1
+	Class 5
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 1
+	Class 5
+	Spell 585
+	Note Smite
+}
+{
+	Race 1
+	Class 5
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 1
+	Class 5
+	Spell 2050
+	Note "Lesser Heal"
+}
+{
+	Race 1
+	Class 5
+	Spell 2382
+	Note Generic
+}
+{
+	Race 1
+	Class 5
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 1
+	Class 5
+	Spell 3050
+	Note Detect
+}
+{
+	Race 1
+	Class 5
+	Spell 3365
+	Note Opening
+}
+{
+	Race 1
+	Class 5
+	Spell 5009
+	Note Wands
+}
+{
+	Race 1
+	Class 5
+	Spell 5019
+	Note Shoot
+}
+{
+	Race 1
+	Class 5
+	Spell 6233
+	Note Closing
+}
+{
+	Race 1
+	Class 5
+	Spell 6246
+	Note Closing
+}
+{
+	Race 1
+	Class 5
+	Spell 6247
+	Note Opening
+}
+{
+	Race 1
+	Class 5
+	Spell 6477
+	Note Opening
+}
+{
+	Race 1
+	Class 5
+	Spell 6478
+	Note Opening
+}
+{
+	Race 1
+	Class 5
+	Spell 6603
+	Note Attack
+}
+{
+	Race 1
+	Class 5
+	Spell 7266
+	Note Duel
+}
+{
+	Race 1
+	Class 5
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 1
+	Class 5
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 1
+	Class 5
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 1
+	Class 5
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 1
+	Class 5
+	Spell 9125
+	Note Generic
+}
+{
+	Race 1
+	Class 5
+	Spell 20597
+	Note "Sword Specialization"
+}
+{
+	Race 1
+	Class 5
+	Spell 20598
+	Note "The Human Spirit"
+}
+{
+	Race 1
+	Class 5
+	Spell 20599
+	Note Diplomacy
+}
+{
+	Race 1
+	Class 5
+	Spell 20600
+	Note Perception
+}
+{
+	Race 1
+	Class 5
+	Spell 20864
+	Note "Mace Specialization"
+}
+{
+	Race 1
+	Class 5
+	Spell 21651
+	Note Opening
+}
+{
+	Race 1
+	Class 5
+	Spell 21652
+	Note Closing
+}
+{
+	Race 1
+	Class 5
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 1
+	Class 5
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 1
+	Class 8
+	Spell 81
+	Note Dodge
+}
+{
+	Race 1
+	Class 8
+	Spell 133
+	Note Fireball
+}
+{
+	Race 1
+	Class 8
+	Spell 168
+	Note "Frost Armor"
+}
+{
+	Race 1
+	Class 8
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 1
+	Class 8
+	Spell 204
+	Note Defense
+}
+{
+	Race 1
+	Class 8
+	Spell 227
+	Note Staves
+}
+{
+	Race 1
+	Class 8
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 1
+	Class 8
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 1
+	Class 8
+	Spell 2382
+	Note Generic
+}
+{
+	Race 1
+	Class 8
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 1
+	Class 8
+	Spell 3050
+	Note Detect
+}
+{
+	Race 1
+	Class 8
+	Spell 3365
+	Note Opening
+}
+{
+	Race 1
+	Class 8
+	Spell 5009
+	Note Wands
+}
+{
+	Race 1
+	Class 8
+	Spell 5019
+	Note Shoot
+}
+{
+	Race 1
+	Class 8
+	Spell 6233
+	Note Closing
+}
+{
+	Race 1
+	Class 8
+	Spell 6246
+	Note Closing
+}
+{
+	Race 1
+	Class 8
+	Spell 6247
+	Note Opening
+}
+{
+	Race 1
+	Class 8
+	Spell 6477
+	Note Opening
+}
+{
+	Race 1
+	Class 8
+	Spell 6478
+	Note Opening
+}
+{
+	Race 1
+	Class 8
+	Spell 6603
+	Note Attack
+}
+{
+	Race 1
+	Class 8
+	Spell 7266
+	Note Duel
+}
+{
+	Race 1
+	Class 8
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 1
+	Class 8
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 1
+	Class 8
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 1
+	Class 8
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 1
+	Class 8
+	Spell 9125
+	Note Generic
+}
+{
+	Race 1
+	Class 8
+	Spell 20597
+	Note "Sword Specialization"
+}
+{
+	Race 1
+	Class 8
+	Spell 20598
+	Note "The Human Spirit"
+}
+{
+	Race 1
+	Class 8
+	Spell 20599
+	Note Diplomacy
+}
+{
+	Race 1
+	Class 8
+	Spell 20600
+	Note Perception
+}
+{
+	Race 1
+	Class 8
+	Spell 20864
+	Note "Mace Specialization"
+}
+{
+	Race 1
+	Class 8
+	Spell 21651
+	Note Opening
+}
+{
+	Race 1
+	Class 8
+	Spell 21652
+	Note Closing
+}
+{
+	Race 1
+	Class 8
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 1
+	Class 8
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 1
+	Class 9
+	Spell 81
+	Note Dodge
+}
+{
+	Race 1
+	Class 9
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 1
+	Class 9
+	Spell 204
+	Note Defense
+}
+{
+	Race 1
+	Class 9
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 1
+	Class 9
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 1
+	Class 9
+	Spell 686
+	Note "Shadow Bolt"
+}
+{
+	Race 1
+	Class 9
+	Spell 687
+	Note "Demon Skin"
+}
+{
+	Race 1
+	Class 9
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 1
+	Class 9
+	Spell 2382
+	Note Generic
+}
+{
+	Race 1
+	Class 9
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 1
+	Class 9
+	Spell 3050
+	Note Detect
+}
+{
+	Race 1
+	Class 9
+	Spell 3365
+	Note Opening
+}
+{
+	Race 1
+	Class 9
+	Spell 5009
+	Note Wands
+}
+{
+	Race 1
+	Class 9
+	Spell 5019
+	Note Shoot
+}
+{
+	Race 1
+	Class 9
+	Spell 6233
+	Note Closing
+}
+{
+	Race 1
+	Class 9
+	Spell 6246
+	Note Closing
+}
+{
+	Race 1
+	Class 9
+	Spell 6247
+	Note Opening
+}
+{
+	Race 1
+	Class 9
+	Spell 6477
+	Note Opening
+}
+{
+	Race 1
+	Class 9
+	Spell 6478
+	Note Opening
+}
+{
+	Race 1
+	Class 9
+	Spell 6603
+	Note Attack
+}
+{
+	Race 1
+	Class 9
+	Spell 7266
+	Note Duel
+}
+{
+	Race 1
+	Class 9
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 1
+	Class 9
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 1
+	Class 9
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 1
+	Class 9
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 1
+	Class 9
+	Spell 9125
+	Note Generic
+}
+{
+	Race 1
+	Class 9
+	Spell 20597
+	Note "Sword Specialization"
+}
+{
+	Race 1
+	Class 9
+	Spell 20598
+	Note "The Human Spirit"
+}
+{
+	Race 1
+	Class 9
+	Spell 20599
+	Note Diplomacy
+}
+{
+	Race 1
+	Class 9
+	Spell 20600
+	Note Perception
+}
+{
+	Race 1
+	Class 9
+	Spell 20864
+	Note "Mace Specialization"
+}
+{
+	Race 1
+	Class 9
+	Spell 21651
+	Note Opening
+}
+{
+	Race 1
+	Class 9
+	Spell 21652
+	Note Closing
+}
+{
+	Race 1
+	Class 9
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 1
+	Class 9
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 2
+	Class 1
+	Spell 78
+	Note "Heroic Strike"
+}
+{
+	Race 2
+	Class 1
+	Spell 81
+	Note Dodge
+}
+{
+	Race 2
+	Class 1
+	Spell 107
+	Note Block
+}
+{
+	Race 2
+	Class 1
+	Spell 196
+	Note "One-Handed Axes"
+}
+{
+	Race 2
+	Class 1
+	Spell 197
+	Note "Two-Handed Axes"
+}
+{
+	Race 2
+	Class 1
+	Spell 201
+	Note "One-Handed Swords"
+}
+{
+	Race 2
+	Class 1
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 2
+	Class 1
+	Spell 204
+	Note Defense
+}
+{
+	Race 2
+	Class 1
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 2
+	Class 1
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 2
+	Class 1
+	Spell 2382
+	Note Generic
+}
+{
+	Race 2
+	Class 1
+	Spell 2457
+	Note "Battle Stance"
+}
+{
+	Race 2
+	Class 1
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 2
+	Class 1
+	Spell 3050
+	Note Detect
+}
+{
+	Race 2
+	Class 1
+	Spell 3365
+	Note Opening
+}
+{
+	Race 2
+	Class 1
+	Spell 5301
+	Note "Defensive State (DND)"
+}
+{
+	Race 2
+	Class 1
+	Spell 6233
+	Note Closing
+}
+{
+	Race 2
+	Class 1
+	Spell 6246
+	Note Closing
+}
+{
+	Race 2
+	Class 1
+	Spell 6247
+	Note Opening
+}
+{
+	Race 2
+	Class 1
+	Spell 6477
+	Note Opening
+}
+{
+	Race 2
+	Class 1
+	Spell 6478
+	Note Opening
+}
+{
+	Race 2
+	Class 1
+	Spell 6603
+	Note Attack
+}
+{
+	Race 2
+	Class 1
+	Spell 7266
+	Note Duel
+}
+{
+	Race 2
+	Class 1
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 2
+	Class 1
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 2
+	Class 1
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 2
+	Class 1
+	Spell 8737
+	Note Mail
+}
+{
+	Race 2
+	Class 1
+	Spell 9077
+	Note Leather
+}
+{
+	Race 2
+	Class 1
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 2
+	Class 1
+	Spell 9116
+	Note Shield
+}
+{
+	Race 2
+	Class 1
+	Spell 9125
+	Note Generic
+}
+{
+	Race 2
+	Class 1
+	Spell 20572
+	Note "Blood Fury"
+}
+{
+	Race 2
+	Class 1
+	Spell 20573
+	Note Hardiness
+}
+{
+	Race 2
+	Class 1
+	Spell 20574
+	Note "Axe Specialization"
+}
+{
+	Race 2
+	Class 1
+	Spell 21563
+	Note Command
+}
+{
+	Race 2
+	Class 1
+	Spell 21651
+	Note Opening
+}
+{
+	Race 2
+	Class 1
+	Spell 21652
+	Note Closing
+}
+{
+	Race 2
+	Class 1
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 2
+	Class 1
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 2
+	Class 3
+	Spell 75
+	Note "Auto Shot"
+}
+{
+	Race 2
+	Class 3
+	Spell 81
+	Note Dodge
+}
+{
+	Race 2
+	Class 3
+	Spell 196
+	Note "One-Handed Axes"
+}
+{
+	Race 2
+	Class 3
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 2
+	Class 3
+	Spell 204
+	Note Defense
+}
+{
+	Race 2
+	Class 3
+	Spell 264
+	Note Bows
+}
+{
+	Race 2
+	Class 3
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 2
+	Class 3
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 2
+	Class 3
+	Spell 2382
+	Note Generic
+}
+{
+	Race 2
+	Class 3
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 2
+	Class 3
+	Spell 2973
+	Note "Raptor Strike"
+}
+{
+	Race 2
+	Class 3
+	Spell 3050
+	Note Detect
+}
+{
+	Race 2
+	Class 3
+	Spell 3365
+	Note Opening
+}
+{
+	Race 2
+	Class 3
+	Spell 6233
+	Note Closing
+}
+{
+	Race 2
+	Class 3
+	Spell 6246
+	Note Closing
+}
+{
+	Race 2
+	Class 3
+	Spell 6247
+	Note Opening
+}
+{
+	Race 2
+	Class 3
+	Spell 6477
+	Note Opening
+}
+{
+	Race 2
+	Class 3
+	Spell 6478
+	Note Opening
+}
+{
+	Race 2
+	Class 3
+	Spell 6603
+	Note Attack
+}
+{
+	Race 2
+	Class 3
+	Spell 7266
+	Note Duel
+}
+{
+	Race 2
+	Class 3
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 2
+	Class 3
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 2
+	Class 3
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 2
+	Class 3
+	Spell 9077
+	Note Leather
+}
+{
+	Race 2
+	Class 3
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 2
+	Class 3
+	Spell 9125
+	Note Generic
+}
+{
+	Race 2
+	Class 3
+	Spell 13358
+	Note "Defensive State (DND)"
+}
+{
+	Race 2
+	Class 3
+	Spell 20572
+	Note "Blood Fury"
+}
+{
+	Race 2
+	Class 3
+	Spell 20573
+	Note Hardiness
+}
+{
+	Race 2
+	Class 3
+	Spell 20574
+	Note "Axe Specialization"
+}
+{
+	Race 2
+	Class 3
+	Spell 20576
+	Note Command
+}
+{
+	Race 2
+	Class 3
+	Spell 21651
+	Note Opening
+}
+{
+	Race 2
+	Class 3
+	Spell 21652
+	Note Closing
+}
+{
+	Race 2
+	Class 3
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 2
+	Class 3
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 2
+	Class 3
+	Spell 24949
+	Note "Defensive State 2 (DND)"
+}
+{
+	Race 2
+	Class 4
+	Spell 81
+	Note Dodge
+}
+{
+	Race 2
+	Class 4
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 2
+	Class 4
+	Spell 204
+	Note Defense
+}
+{
+	Race 2
+	Class 4
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 2
+	Class 4
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 2
+	Class 4
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 2
+	Class 4
+	Spell 1752
+	Note "Sinister Strike"
+}
+{
+	Race 2
+	Class 4
+	Spell 2098
+	Note Eviscerate
+}
+{
+	Race 2
+	Class 4
+	Spell 2382
+	Note Generic
+}
+{
+	Race 2
+	Class 4
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 2
+	Class 4
+	Spell 2567
+	Note Thrown
+}
+{
+	Race 2
+	Class 4
+	Spell 2764
+	Note Throw
+}
+{
+	Race 2
+	Class 4
+	Spell 3050
+	Note Detect
+}
+{
+	Race 2
+	Class 4
+	Spell 3365
+	Note Opening
+}
+{
+	Race 2
+	Class 4
+	Spell 6233
+	Note Closing
+}
+{
+	Race 2
+	Class 4
+	Spell 6246
+	Note Closing
+}
+{
+	Race 2
+	Class 4
+	Spell 6247
+	Note Opening
+}
+{
+	Race 2
+	Class 4
+	Spell 6477
+	Note Opening
+}
+{
+	Race 2
+	Class 4
+	Spell 6478
+	Note Opening
+}
+{
+	Race 2
+	Class 4
+	Spell 6603
+	Note Attack
+}
+{
+	Race 2
+	Class 4
+	Spell 7266
+	Note Duel
+}
+{
+	Race 2
+	Class 4
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 2
+	Class 4
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 2
+	Class 4
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 2
+	Class 4
+	Spell 9077
+	Note Leather
+}
+{
+	Race 2
+	Class 4
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 2
+	Class 4
+	Spell 9125
+	Note Generic
+}
+{
+	Race 2
+	Class 4
+	Spell 16092
+	Note "Defensive State (DND)"
+}
+{
+	Race 2
+	Class 4
+	Spell 20572
+	Note "Blood Fury"
+}
+{
+	Race 2
+	Class 4
+	Spell 20573
+	Note Hardiness
+}
+{
+	Race 2
+	Class 4
+	Spell 20574
+	Note "Axe Specialization"
+}
+{
+	Race 2
+	Class 4
+	Spell 21184
+	Note "Rogue Passive (DND)"
+}
+{
+	Race 2
+	Class 4
+	Spell 21563
+	Note Command
+}
+{
+	Race 2
+	Class 4
+	Spell 21651
+	Note Opening
+}
+{
+	Race 2
+	Class 4
+	Spell 21652
+	Note Closing
+}
+{
+	Race 2
+	Class 4
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 2
+	Class 4
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 2
+	Class 7
+	Spell 81
+	Note Dodge
+}
+{
+	Race 2
+	Class 7
+	Spell 107
+	Note Block
+}
+{
+	Race 2
+	Class 7
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 2
+	Class 7
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 2
+	Class 7
+	Spell 204
+	Note Defense
+}
+{
+	Race 2
+	Class 7
+	Spell 227
+	Note Staves
+}
+{
+	Race 2
+	Class 7
+	Spell 331
+	Note "Healing Wave"
+}
+{
+	Race 2
+	Class 7
+	Spell 403
+	Note "Lightning Bolt"
+}
+{
+	Race 2
+	Class 7
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 2
+	Class 7
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 2
+	Class 7
+	Spell 2382
+	Note Generic
+}
+{
+	Race 2
+	Class 7
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 2
+	Class 7
+	Spell 3050
+	Note Detect
+}
+{
+	Race 2
+	Class 7
+	Spell 3365
+	Note Opening
+}
+{
+	Race 2
+	Class 7
+	Spell 6233
+	Note Closing
+}
+{
+	Race 2
+	Class 7
+	Spell 6246
+	Note Closing
+}
+{
+	Race 2
+	Class 7
+	Spell 6247
+	Note Opening
+}
+{
+	Race 2
+	Class 7
+	Spell 6477
+	Note Opening
+}
+{
+	Race 2
+	Class 7
+	Spell 6478
+	Note Opening
+}
+{
+	Race 2
+	Class 7
+	Spell 6603
+	Note Attack
+}
+{
+	Race 2
+	Class 7
+	Spell 7266
+	Note Duel
+}
+{
+	Race 2
+	Class 7
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 2
+	Class 7
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 2
+	Class 7
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 2
+	Class 7
+	Spell 9077
+	Note Leather
+}
+{
+	Race 2
+	Class 7
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 2
+	Class 7
+	Spell 9116
+	Note Shield
+}
+{
+	Race 2
+	Class 7
+	Spell 9125
+	Note Generic
+}
+{
+	Race 2
+	Class 7
+	Spell 20572
+	Note "Blood Fury"
+}
+{
+	Race 2
+	Class 7
+	Spell 20573
+	Note Hardiness
+}
+{
+	Race 2
+	Class 7
+	Spell 20574
+	Note "Axe Specialization"
+}
+{
+	Race 2
+	Class 7
+	Spell 21563
+	Note Command
+}
+{
+	Race 2
+	Class 7
+	Spell 21651
+	Note Opening
+}
+{
+	Race 2
+	Class 7
+	Spell 21652
+	Note Closing
+}
+{
+	Race 2
+	Class 7
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 2
+	Class 7
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 2
+	Class 7
+	Spell 27763
+	Note Totem
+}
+{
+	Race 2
+	Class 9
+	Spell 81
+	Note Dodge
+}
+{
+	Race 2
+	Class 9
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 2
+	Class 9
+	Spell 204
+	Note Defense
+}
+{
+	Race 2
+	Class 9
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 2
+	Class 9
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 2
+	Class 9
+	Spell 686
+	Note "Shadow Bolt"
+}
+{
+	Race 2
+	Class 9
+	Spell 687
+	Note "Demon Skin"
+}
+{
+	Race 2
+	Class 9
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 2
+	Class 9
+	Spell 2382
+	Note Generic
+}
+{
+	Race 2
+	Class 9
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 2
+	Class 9
+	Spell 3050
+	Note Detect
+}
+{
+	Race 2
+	Class 9
+	Spell 3365
+	Note Opening
+}
+{
+	Race 2
+	Class 9
+	Spell 5009
+	Note Wands
+}
+{
+	Race 2
+	Class 9
+	Spell 5019
+	Note Shoot
+}
+{
+	Race 2
+	Class 9
+	Spell 6233
+	Note Closing
+}
+{
+	Race 2
+	Class 9
+	Spell 6246
+	Note Closing
+}
+{
+	Race 2
+	Class 9
+	Spell 6247
+	Note Opening
+}
+{
+	Race 2
+	Class 9
+	Spell 6477
+	Note Opening
+}
+{
+	Race 2
+	Class 9
+	Spell 6478
+	Note Opening
+}
+{
+	Race 2
+	Class 9
+	Spell 6603
+	Note Attack
+}
+{
+	Race 2
+	Class 9
+	Spell 7266
+	Note Duel
+}
+{
+	Race 2
+	Class 9
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 2
+	Class 9
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 2
+	Class 9
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 2
+	Class 9
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 2
+	Class 9
+	Spell 9125
+	Note Generic
+}
+{
+	Race 2
+	Class 9
+	Spell 20572
+	Note "Blood Fury"
+}
+{
+	Race 2
+	Class 9
+	Spell 20573
+	Note Hardiness
+}
+{
+	Race 2
+	Class 9
+	Spell 20574
+	Note "Axe Specialization"
+}
+{
+	Race 2
+	Class 9
+	Spell 20575
+	Note Command
+}
+{
+	Race 2
+	Class 9
+	Spell 21651
+	Note Opening
+}
+{
+	Race 2
+	Class 9
+	Spell 21652
+	Note Closing
+}
+{
+	Race 2
+	Class 9
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 2
+	Class 9
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 3
+	Class 1
+	Spell 78
+	Note "Heroic Strike"
+}
+{
+	Race 3
+	Class 1
+	Spell 81
+	Note Dodge
+}
+{
+	Race 3
+	Class 1
+	Spell 107
+	Note Block
+}
+{
+	Race 3
+	Class 1
+	Spell 196
+	Note "One-Handed Axes"
+}
+{
+	Race 3
+	Class 1
+	Spell 197
+	Note "Two-Handed Axes"
+}
+{
+	Race 3
+	Class 1
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 3
+	Class 1
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 3
+	Class 1
+	Spell 204
+	Note Defense
+}
+{
+	Race 3
+	Class 1
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 3
+	Class 1
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 3
+	Class 1
+	Spell 672
+	Note "Language Dwarven"
+}
+{
+	Race 3
+	Class 1
+	Spell 2382
+	Note Generic
+}
+{
+	Race 3
+	Class 1
+	Spell 2457
+	Note "Battle Stance"
+}
+{
+	Race 3
+	Class 1
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 3
+	Class 1
+	Spell 2481
+	Note "Find Treasure"
+}
+{
+	Race 3
+	Class 1
+	Spell 3050
+	Note Detect
+}
+{
+	Race 3
+	Class 1
+	Spell 3365
+	Note Opening
+}
+{
+	Race 3
+	Class 1
+	Spell 5301
+	Note "Defensive State (DND)"
+}
+{
+	Race 3
+	Class 1
+	Spell 6233
+	Note Closing
+}
+{
+	Race 3
+	Class 1
+	Spell 6246
+	Note Closing
+}
+{
+	Race 3
+	Class 1
+	Spell 6247
+	Note Opening
+}
+{
+	Race 3
+	Class 1
+	Spell 6477
+	Note Opening
+}
+{
+	Race 3
+	Class 1
+	Spell 6478
+	Note Opening
+}
+{
+	Race 3
+	Class 1
+	Spell 6603
+	Note Attack
+}
+{
+	Race 3
+	Class 1
+	Spell 7266
+	Note Duel
+}
+{
+	Race 3
+	Class 1
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 3
+	Class 1
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 3
+	Class 1
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 3
+	Class 1
+	Spell 8737
+	Note Mail
+}
+{
+	Race 3
+	Class 1
+	Spell 9077
+	Note Leather
+}
+{
+	Race 3
+	Class 1
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 3
+	Class 1
+	Spell 9116
+	Note Shield
+}
+{
+	Race 3
+	Class 1
+	Spell 9125
+	Note Generic
+}
+{
+	Race 3
+	Class 1
+	Spell 20594
+	Note Stoneform
+}
+{
+	Race 3
+	Class 1
+	Spell 20595
+	Note "Gun Specialization"
+}
+{
+	Race 3
+	Class 1
+	Spell 20596
+	Note "Frost Resistance"
+}
+{
+	Race 3
+	Class 1
+	Spell 21651
+	Note Opening
+}
+{
+	Race 3
+	Class 1
+	Spell 21652
+	Note Closing
+}
+{
+	Race 3
+	Class 1
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 3
+	Class 1
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 3
+	Class 2
+	Spell 81
+	Note Dodge
+}
+{
+	Race 3
+	Class 2
+	Spell 107
+	Note Block
+}
+{
+	Race 3
+	Class 2
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 3
+	Class 2
+	Spell 199
+	Note "Two-Handed Maces"
+}
+{
+	Race 3
+	Class 2
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 3
+	Class 2
+	Spell 204
+	Note Defense
+}
+{
+	Race 3
+	Class 2
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 3
+	Class 2
+	Spell 635
+	Note "Holy Light"
+}
+{
+	Race 3
+	Class 2
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 3
+	Class 2
+	Spell 672
+	Note "Language Dwarven"
+}
+{
+	Race 3
+	Class 2
+	Spell 2382
+	Note Generic
+}
+{
+	Race 3
+	Class 2
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 3
+	Class 2
+	Spell 2481
+	Note "Find Treasure"
+}
+{
+	Race 3
+	Class 2
+	Spell 3050
+	Note Detect
+}
+{
+	Race 3
+	Class 2
+	Spell 3365
+	Note Opening
+}
+{
+	Race 3
+	Class 2
+	Spell 6233
+	Note Closing
+}
+{
+	Race 3
+	Class 2
+	Spell 6246
+	Note Closing
+}
+{
+	Race 3
+	Class 2
+	Spell 6247
+	Note Opening
+}
+{
+	Race 3
+	Class 2
+	Spell 6477
+	Note Opening
+}
+{
+	Race 3
+	Class 2
+	Spell 6478
+	Note Opening
+}
+{
+	Race 3
+	Class 2
+	Spell 6603
+	Note Attack
+}
+{
+	Race 3
+	Class 2
+	Spell 7266
+	Note Duel
+}
+{
+	Race 3
+	Class 2
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 3
+	Class 2
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 3
+	Class 2
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 3
+	Class 2
+	Spell 8737
+	Note Mail
+}
+{
+	Race 3
+	Class 2
+	Spell 9077
+	Note Leather
+}
+{
+	Race 3
+	Class 2
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 3
+	Class 2
+	Spell 9116
+	Note Shield
+}
+{
+	Race 3
+	Class 2
+	Spell 9125
+	Note Generic
+}
+{
+	Race 3
+	Class 2
+	Spell 20594
+	Note Stoneform
+}
+{
+	Race 3
+	Class 2
+	Spell 20595
+	Note "Gun Specialization"
+}
+{
+	Race 3
+	Class 2
+	Spell 20596
+	Note "Frost Resistance"
+}
+{
+	Race 3
+	Class 2
+	Spell 20154
+	Note "Seal of Righteousness"
+}
+{
+	Race 3
+	Class 2
+	Spell 21651
+	Note Opening
+}
+{
+	Race 3
+	Class 2
+	Spell 21652
+	Note Closing
+}
+{
+	Race 3
+	Class 2
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 3
+	Class 2
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 3
+	Class 2
+	Spell 27762
+	Note Libram
+}
+{
+	Race 3
+	Class 3
+	Spell 75
+	Note "Auto Shot"
+}
+{
+	Race 3
+	Class 3
+	Spell 81
+	Note Dodge
+}
+{
+	Race 3
+	Class 3
+	Spell 196
+	Note "One-Handed Axes"
+}
+{
+	Race 3
+	Class 3
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 3
+	Class 3
+	Spell 204
+	Note Defense
+}
+{
+	Race 3
+	Class 3
+	Spell 266
+	Note Guns
+}
+{
+	Race 3
+	Class 3
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 3
+	Class 3
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 3
+	Class 3
+	Spell 672
+	Note "Language Dwarven"
+}
+{
+	Race 3
+	Class 3
+	Spell 2382
+	Note Generic
+}
+{
+	Race 3
+	Class 3
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 3
+	Class 3
+	Spell 2481
+	Note "Find Treasure"
+}
+{
+	Race 3
+	Class 3
+	Spell 2973
+	Note "Raptor Strike"
+}
+{
+	Race 3
+	Class 3
+	Spell 3050
+	Note Detect
+}
+{
+	Race 3
+	Class 3
+	Spell 3365
+	Note Opening
+}
+{
+	Race 3
+	Class 3
+	Spell 6233
+	Note Closing
+}
+{
+	Race 3
+	Class 3
+	Spell 6246
+	Note Closing
+}
+{
+	Race 3
+	Class 3
+	Spell 6247
+	Note Opening
+}
+{
+	Race 3
+	Class 3
+	Spell 6477
+	Note Opening
+}
+{
+	Race 3
+	Class 3
+	Spell 6478
+	Note Opening
+}
+{
+	Race 3
+	Class 3
+	Spell 6603
+	Note Attack
+}
+{
+	Race 3
+	Class 3
+	Spell 7266
+	Note Duel
+}
+{
+	Race 3
+	Class 3
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 3
+	Class 3
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 3
+	Class 3
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 3
+	Class 3
+	Spell 9077
+	Note Leather
+}
+{
+	Race 3
+	Class 3
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 3
+	Class 3
+	Spell 9125
+	Note Generic
+}
+{
+	Race 3
+	Class 3
+	Spell 13358
+	Note "Defensive State (DND)"
+}
+{
+	Race 3
+	Class 3
+	Spell 20594
+	Note Stoneform
+}
+{
+	Race 3
+	Class 3
+	Spell 20595
+	Note "Gun Specialization"
+}
+{
+	Race 3
+	Class 3
+	Spell 20596
+	Note "Frost Resistance"
+}
+{
+	Race 3
+	Class 3
+	Spell 21651
+	Note Opening
+}
+{
+	Race 3
+	Class 3
+	Spell 21652
+	Note Closing
+}
+{
+	Race 3
+	Class 3
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 3
+	Class 3
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 3
+	Class 3
+	Spell 24949
+	Note "Defensive State 2 (DND)"
+}
+{
+	Race 3
+	Class 4
+	Spell 81
+	Note Dodge
+}
+{
+	Race 3
+	Class 4
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 3
+	Class 4
+	Spell 204
+	Note Defense
+}
+{
+	Race 3
+	Class 4
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 3
+	Class 4
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 3
+	Class 4
+	Spell 672
+	Note "Language Dwarven"
+}
+{
+	Race 3
+	Class 4
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 3
+	Class 4
+	Spell 1752
+	Note "Sinister Strike"
+}
+{
+	Race 3
+	Class 4
+	Spell 2098
+	Note Eviscerate
+}
+{
+	Race 3
+	Class 4
+	Spell 2382
+	Note Generic
+}
+{
+	Race 3
+	Class 4
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 3
+	Class 4
+	Spell 2481
+	Note "Find Treasure"
+}
+{
+	Race 3
+	Class 4
+	Spell 2567
+	Note Thrown
+}
+{
+	Race 3
+	Class 4
+	Spell 2764
+	Note Throw
+}
+{
+	Race 3
+	Class 4
+	Spell 3050
+	Note Detect
+}
+{
+	Race 3
+	Class 4
+	Spell 3365
+	Note Opening
+}
+{
+	Race 3
+	Class 4
+	Spell 6233
+	Note Closing
+}
+{
+	Race 3
+	Class 4
+	Spell 6246
+	Note Closing
+}
+{
+	Race 3
+	Class 4
+	Spell 6247
+	Note Opening
+}
+{
+	Race 3
+	Class 4
+	Spell 6477
+	Note Opening
+}
+{
+	Race 3
+	Class 4
+	Spell 6478
+	Note Opening
+}
+{
+	Race 3
+	Class 4
+	Spell 6603
+	Note Attack
+}
+{
+	Race 3
+	Class 4
+	Spell 7266
+	Note Duel
+}
+{
+	Race 3
+	Class 4
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 3
+	Class 4
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 3
+	Class 4
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 3
+	Class 4
+	Spell 9077
+	Note Leather
+}
+{
+	Race 3
+	Class 4
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 3
+	Class 4
+	Spell 9125
+	Note Generic
+}
+{
+	Race 3
+	Class 4
+	Spell 16092
+	Note "Defensive State (DND)"
+}
+{
+	Race 3
+	Class 4
+	Spell 20594
+	Note Stoneform
+}
+{
+	Race 3
+	Class 4
+	Spell 20595
+	Note "Gun Specialization"
+}
+{
+	Race 3
+	Class 4
+	Spell 20596
+	Note "Frost Resistance"
+}
+{
+	Race 3
+	Class 4
+	Spell 21184
+	Note "Rogue Passive (DND)"
+}
+{
+	Race 3
+	Class 4
+	Spell 21651
+	Note Opening
+}
+{
+	Race 3
+	Class 4
+	Spell 21652
+	Note Closing
+}
+{
+	Race 3
+	Class 4
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 3
+	Class 4
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 3
+	Class 5
+	Spell 81
+	Note Dodge
+}
+{
+	Race 3
+	Class 5
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 3
+	Class 5
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 3
+	Class 5
+	Spell 204
+	Note Defense
+}
+{
+	Race 3
+	Class 5
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 3
+	Class 5
+	Spell 585
+	Note Smite
+}
+{
+	Race 3
+	Class 5
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 3
+	Class 5
+	Spell 672
+	Note "Language Dwarven"
+}
+{
+	Race 3
+	Class 5
+	Spell 2050
+	Note "Lesser Heal"
+}
+{
+	Race 3
+	Class 5
+	Spell 2382
+	Note Generic
+}
+{
+	Race 3
+	Class 5
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 3
+	Class 5
+	Spell 2481
+	Note "Find Treasure"
+}
+{
+	Race 3
+	Class 5
+	Spell 3050
+	Note Detect
+}
+{
+	Race 3
+	Class 5
+	Spell 3365
+	Note Opening
+}
+{
+	Race 3
+	Class 5
+	Spell 5009
+	Note Wands
+}
+{
+	Race 3
+	Class 5
+	Spell 5019
+	Note Shoot
+}
+{
+	Race 3
+	Class 5
+	Spell 6233
+	Note Closing
+}
+{
+	Race 3
+	Class 5
+	Spell 6246
+	Note Closing
+}
+{
+	Race 3
+	Class 5
+	Spell 6247
+	Note Opening
+}
+{
+	Race 3
+	Class 5
+	Spell 6477
+	Note Opening
+}
+{
+	Race 3
+	Class 5
+	Spell 6478
+	Note Opening
+}
+{
+	Race 3
+	Class 5
+	Spell 6603
+	Note Attack
+}
+{
+	Race 3
+	Class 5
+	Spell 7266
+	Note Duel
+}
+{
+	Race 3
+	Class 5
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 3
+	Class 5
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 3
+	Class 5
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 3
+	Class 5
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 3
+	Class 5
+	Spell 9125
+	Note Generic
+}
+{
+	Race 3
+	Class 5
+	Spell 20594
+	Note Stoneform
+}
+{
+	Race 3
+	Class 5
+	Spell 20595
+	Note "Gun Specialization"
+}
+{
+	Race 3
+	Class 5
+	Spell 20596
+	Note "Frost Resistance"
+}
+{
+	Race 3
+	Class 5
+	Spell 21651
+	Note Opening
+}
+{
+	Race 3
+	Class 5
+	Spell 21652
+	Note Closing
+}
+{
+	Race 3
+	Class 5
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 3
+	Class 5
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 4
+	Class 1
+	Spell 78
+	Note "Heroic Strike"
+}
+{
+	Race 4
+	Class 1
+	Spell 81
+	Note Dodge
+}
+{
+	Race 4
+	Class 1
+	Spell 107
+	Note Block
+}
+{
+	Race 4
+	Class 1
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 4
+	Class 1
+	Spell 201
+	Note "One-Handed Swords"
+}
+{
+	Race 4
+	Class 1
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 4
+	Class 1
+	Spell 204
+	Note Defense
+}
+{
+	Race 4
+	Class 1
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 4
+	Class 1
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 4
+	Class 1
+	Spell 671
+	Note "Language Darnassian"
+}
+{
+	Race 4
+	Class 1
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 4
+	Class 1
+	Spell 2382
+	Note Generic
+}
+{
+	Race 4
+	Class 1
+	Spell 2457
+	Note "Battle Stance"
+}
+{
+	Race 4
+	Class 1
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 4
+	Class 1
+	Spell 3050
+	Note Detect
+}
+{
+	Race 4
+	Class 1
+	Spell 3365
+	Note Opening
+}
+{
+	Race 4
+	Class 1
+	Spell 5301
+	Note "Defensive State (DND)"
+}
+{
+	Race 4
+	Class 1
+	Spell 6233
+	Note Closing
+}
+{
+	Race 4
+	Class 1
+	Spell 6246
+	Note Closing
+}
+{
+	Race 4
+	Class 1
+	Spell 6247
+	Note Opening
+}
+{
+	Race 4
+	Class 1
+	Spell 6477
+	Note Opening
+}
+{
+	Race 4
+	Class 1
+	Spell 6478
+	Note Opening
+}
+{
+	Race 4
+	Class 1
+	Spell 6603
+	Note Attack
+}
+{
+	Race 4
+	Class 1
+	Spell 7266
+	Note Duel
+}
+{
+	Race 4
+	Class 1
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 4
+	Class 1
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 4
+	Class 1
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 4
+	Class 1
+	Spell 8737
+	Note Mail
+}
+{
+	Race 4
+	Class 1
+	Spell 9077
+	Note Leather
+}
+{
+	Race 4
+	Class 1
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 4
+	Class 1
+	Spell 9116
+	Note Shield
+}
+{
+	Race 4
+	Class 1
+	Spell 9125
+	Note Generic
+}
+{
+	Race 4
+	Class 1
+	Spell 20580
+	Note Shadowmeld
+}
+{
+	Race 4
+	Class 1
+	Spell 20582
+	Note Quickness
+}
+{
+	Race 4
+	Class 1
+	Spell 20583
+	Note "Nature Resistance"
+}
+{
+	Race 4
+	Class 1
+	Spell 20585
+	Note "Wisp Spirit"
+}
+{
+	Race 4
+	Class 1
+	Spell 21009
+	Note "Shadowmeld Passive"
+}
+{
+	Race 4
+	Class 1
+	Spell 21651
+	Note Opening
+}
+{
+	Race 4
+	Class 1
+	Spell 21652
+	Note Closing
+}
+{
+	Race 4
+	Class 1
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 4
+	Class 1
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 4
+	Class 3
+	Spell 75
+	Note "Auto Shot"
+}
+{
+	Race 4
+	Class 3
+	Spell 81
+	Note Dodge
+}
+{
+	Race 4
+	Class 3
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 4
+	Class 3
+	Spell 204
+	Note Defense
+}
+{
+	Race 4
+	Class 3
+	Spell 264
+	Note Bows
+}
+{
+	Race 4
+	Class 3
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 4
+	Class 3
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 4
+	Class 3
+	Spell 671
+	Note "Language Darnassian"
+}
+{
+	Race 4
+	Class 3
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 4
+	Class 3
+	Spell 2382
+	Note Generic
+}
+{
+	Race 4
+	Class 3
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 4
+	Class 3
+	Spell 2973
+	Note "Raptor Strike"
+}
+{
+	Race 4
+	Class 3
+	Spell 3050
+	Note Detect
+}
+{
+	Race 4
+	Class 3
+	Spell 3365
+	Note Opening
+}
+{
+	Race 4
+	Class 3
+	Spell 6233
+	Note Closing
+}
+{
+	Race 4
+	Class 3
+	Spell 6246
+	Note Closing
+}
+{
+	Race 4
+	Class 3
+	Spell 6247
+	Note Opening
+}
+{
+	Race 4
+	Class 3
+	Spell 6477
+	Note Opening
+}
+{
+	Race 4
+	Class 3
+	Spell 6478
+	Note Opening
+}
+{
+	Race 4
+	Class 3
+	Spell 6603
+	Note Attack
+}
+{
+	Race 4
+	Class 3
+	Spell 7266
+	Note Duel
+}
+{
+	Race 4
+	Class 3
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 4
+	Class 3
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 4
+	Class 3
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 4
+	Class 3
+	Spell 9077
+	Note Leather
+}
+{
+	Race 4
+	Class 3
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 4
+	Class 3
+	Spell 9125
+	Note Generic
+}
+{
+	Race 4
+	Class 3
+	Spell 13358
+	Note "Defensive State (DND)"
+}
+{
+	Race 4
+	Class 3
+	Spell 20580
+	Note Shadowmeld
+}
+{
+	Race 4
+	Class 3
+	Spell 20582
+	Note Quickness
+}
+{
+	Race 4
+	Class 3
+	Spell 20583
+	Note "Nature Resistance"
+}
+{
+	Race 4
+	Class 3
+	Spell 20585
+	Note "Wisp Spirit"
+}
+{
+	Race 4
+	Class 3
+	Spell 21009
+	Note "Shadowmeld Passive"
+}
+{
+	Race 4
+	Class 3
+	Spell 21651
+	Note Opening
+}
+{
+	Race 4
+	Class 3
+	Spell 21652
+	Note Closing
+}
+{
+	Race 4
+	Class 3
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 4
+	Class 3
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 4
+	Class 3
+	Spell 24949
+	Note "Defensive State 2 (DND)"
+}
+{
+	Race 4
+	Class 4
+	Spell 81
+	Note Dodge
+}
+{
+	Race 4
+	Class 4
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 4
+	Class 4
+	Spell 204
+	Note Defense
+}
+{
+	Race 4
+	Class 4
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 4
+	Class 4
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 4
+	Class 4
+	Spell 671
+	Note "Language Darnassian"
+}
+{
+	Race 4
+	Class 4
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 4
+	Class 4
+	Spell 1752
+	Note "Sinister Strike"
+}
+{
+	Race 4
+	Class 4
+	Spell 2098
+	Note Eviscerate
+}
+{
+	Race 4
+	Class 4
+	Spell 2382
+	Note Generic
+}
+{
+	Race 4
+	Class 4
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 4
+	Class 4
+	Spell 2567
+	Note Thrown
+}
+{
+	Race 4
+	Class 4
+	Spell 2764
+	Note Throw
+}
+{
+	Race 4
+	Class 4
+	Spell 3050
+	Note Detect
+}
+{
+	Race 4
+	Class 4
+	Spell 3365
+	Note Opening
+}
+{
+	Race 4
+	Class 4
+	Spell 6233
+	Note Closing
+}
+{
+	Race 4
+	Class 4
+	Spell 6246
+	Note Closing
+}
+{
+	Race 4
+	Class 4
+	Spell 6247
+	Note Opening
+}
+{
+	Race 4
+	Class 4
+	Spell 6477
+	Note Opening
+}
+{
+	Race 4
+	Class 4
+	Spell 6478
+	Note Opening
+}
+{
+	Race 4
+	Class 4
+	Spell 6603
+	Note Attack
+}
+{
+	Race 4
+	Class 4
+	Spell 7266
+	Note Duel
+}
+{
+	Race 4
+	Class 4
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 4
+	Class 4
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 4
+	Class 4
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 4
+	Class 4
+	Spell 9077
+	Note Leather
+}
+{
+	Race 4
+	Class 4
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 4
+	Class 4
+	Spell 9125
+	Note Generic
+}
+{
+	Race 4
+	Class 4
+	Spell 16092
+	Note "Defensive State (DND)"
+}
+{
+	Race 4
+	Class 4
+	Spell 20580
+	Note Shadowmeld
+}
+{
+	Race 4
+	Class 4
+	Spell 20582
+	Note Quickness
+}
+{
+	Race 4
+	Class 4
+	Spell 20583
+	Note "Nature Resistance"
+}
+{
+	Race 4
+	Class 4
+	Spell 20585
+	Note "Wisp Spirit"
+}
+{
+	Race 4
+	Class 4
+	Spell 21009
+	Note "Shadowmeld Passive"
+}
+{
+	Race 4
+	Class 4
+	Spell 21184
+	Note "Rogue Passive (DND)"
+}
+{
+	Race 4
+	Class 4
+	Spell 21651
+	Note Opening
+}
+{
+	Race 4
+	Class 4
+	Spell 21652
+	Note Closing
+}
+{
+	Race 4
+	Class 4
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 4
+	Class 4
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 4
+	Class 5
+	Spell 81
+	Note Dodge
+}
+{
+	Race 4
+	Class 5
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 4
+	Class 5
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 4
+	Class 5
+	Spell 204
+	Note Defense
+}
+{
+	Race 4
+	Class 5
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 4
+	Class 5
+	Spell 585
+	Note Smite
+}
+{
+	Race 4
+	Class 5
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 4
+	Class 5
+	Spell 671
+	Note "Language Darnassian"
+}
+{
+	Race 4
+	Class 5
+	Spell 2050
+	Note "Lesser Heal"
+}
+{
+	Race 4
+	Class 5
+	Spell 2382
+	Note Generic
+}
+{
+	Race 4
+	Class 5
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 4
+	Class 5
+	Spell 3050
+	Note Detect
+}
+{
+	Race 4
+	Class 5
+	Spell 3365
+	Note Opening
+}
+{
+	Race 4
+	Class 5
+	Spell 5009
+	Note Wands
+}
+{
+	Race 4
+	Class 5
+	Spell 5019
+	Note Shoot
+}
+{
+	Race 4
+	Class 5
+	Spell 6233
+	Note Closing
+}
+{
+	Race 4
+	Class 5
+	Spell 6246
+	Note Closing
+}
+{
+	Race 4
+	Class 5
+	Spell 6247
+	Note Opening
+}
+{
+	Race 4
+	Class 5
+	Spell 6477
+	Note Opening
+}
+{
+	Race 4
+	Class 5
+	Spell 6478
+	Note Opening
+}
+{
+	Race 4
+	Class 5
+	Spell 6603
+	Note Attack
+}
+{
+	Race 4
+	Class 5
+	Spell 7266
+	Note Duel
+}
+{
+	Race 4
+	Class 5
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 4
+	Class 5
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 4
+	Class 5
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 4
+	Class 5
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 4
+	Class 5
+	Spell 9125
+	Note Generic
+}
+{
+	Race 4
+	Class 5
+	Spell 20580
+	Note Shadowmeld
+}
+{
+	Race 4
+	Class 5
+	Spell 20582
+	Note Quickness
+}
+{
+	Race 4
+	Class 5
+	Spell 20583
+	Note "Nature Resistance"
+}
+{
+	Race 4
+	Class 5
+	Spell 20585
+	Note "Wisp Spirit"
+}
+{
+	Race 4
+	Class 5
+	Spell 21009
+	Note "Shadowmeld Passive"
+}
+{
+	Race 4
+	Class 5
+	Spell 21651
+	Note Opening
+}
+{
+	Race 4
+	Class 5
+	Spell 21652
+	Note Closing
+}
+{
+	Race 4
+	Class 5
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 4
+	Class 5
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 4
+	Class 11
+	Spell 81
+	Note Dodge
+}
+{
+	Race 4
+	Class 11
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 4
+	Class 11
+	Spell 204
+	Note Defense
+}
+{
+	Race 4
+	Class 11
+	Spell 227
+	Note Staves
+}
+{
+	Race 4
+	Class 11
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 4
+	Class 11
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 4
+	Class 11
+	Spell 671
+	Note "Language Darnassian"
+}
+{
+	Race 4
+	Class 11
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 4
+	Class 11
+	Spell 2382
+	Note Generic
+}
+{
+	Race 4
+	Class 11
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 4
+	Class 11
+	Spell 3050
+	Note Detect
+}
+{
+	Race 4
+	Class 11
+	Spell 3365
+	Note Opening
+}
+{
+	Race 4
+	Class 11
+	Spell 5176
+	Note Wrath
+}
+{
+	Race 4
+	Class 11
+	Spell 5185
+	Note "Healing Touch"
+}
+{
+	Race 4
+	Class 11
+	Spell 6233
+	Note Closing
+}
+{
+	Race 4
+	Class 11
+	Spell 6246
+	Note Closing
+}
+{
+	Race 4
+	Class 11
+	Spell 6247
+	Note Opening
+}
+{
+	Race 4
+	Class 11
+	Spell 6477
+	Note Opening
+}
+{
+	Race 4
+	Class 11
+	Spell 6478
+	Note Opening
+}
+{
+	Race 4
+	Class 11
+	Spell 6603
+	Note Attack
+}
+{
+	Race 4
+	Class 11
+	Spell 7266
+	Note Duel
+}
+{
+	Race 4
+	Class 11
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 4
+	Class 11
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 4
+	Class 11
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 4
+	Class 11
+	Spell 9077
+	Note Leather
+}
+{
+	Race 4
+	Class 11
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 4
+	Class 11
+	Spell 9125
+	Note Generic
+}
+{
+	Race 4
+	Class 11
+	Spell 20580
+	Note Shadowmeld
+}
+{
+	Race 4
+	Class 11
+	Spell 20582
+	Note Quickness
+}
+{
+	Race 4
+	Class 11
+	Spell 20583
+	Note "Nature Resistance"
+}
+{
+	Race 4
+	Class 11
+	Spell 20585
+	Note "Wisp Spirit"
+}
+{
+	Race 4
+	Class 11
+	Spell 21009
+	Note "Shadowmeld Passive"
+}
+{
+	Race 4
+	Class 11
+	Spell 21651
+	Note Opening
+}
+{
+	Race 4
+	Class 11
+	Spell 21652
+	Note Closing
+}
+{
+	Race 4
+	Class 11
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 4
+	Class 11
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 4
+	Class 11
+	Spell 27764
+	Note Fetish
+}
+{
+	Race 5
+	Class 1
+	Spell 78
+	Note "Heroic Strike"
+}
+{
+	Race 5
+	Class 1
+	Spell 81
+	Note Dodge
+}
+{
+	Race 5
+	Class 1
+	Spell 107
+	Note Block
+}
+{
+	Race 5
+	Class 1
+	Spell 201
+	Note "One-Handed Swords"
+}
+{
+	Race 5
+	Class 1
+	Spell 202
+	Note "Two-Handed Swords"
+}
+{
+	Race 5
+	Class 1
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 5
+	Class 1
+	Spell 204
+	Note Defense
+}
+{
+	Race 5
+	Class 1
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 5
+	Class 1
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 5
+	Class 1
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 5
+	Class 1
+	Spell 2382
+	Note Generic
+}
+{
+	Race 5
+	Class 1
+	Spell 2457
+	Note "Battle Stance"
+}
+{
+	Race 5
+	Class 1
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 5
+	Class 1
+	Spell 3050
+	Note Detect
+}
+{
+	Race 5
+	Class 1
+	Spell 3365
+	Note Opening
+}
+{
+	Race 5
+	Class 1
+	Spell 5227
+	Note "Underwater Breathing"
+}
+{
+	Race 5
+	Class 1
+	Spell 5301
+	Note "Defensive State (DND)"
+}
+{
+	Race 5
+	Class 1
+	Spell 6233
+	Note Closing
+}
+{
+	Race 5
+	Class 1
+	Spell 6246
+	Note Closing
+}
+{
+	Race 5
+	Class 1
+	Spell 6247
+	Note Opening
+}
+{
+	Race 5
+	Class 1
+	Spell 6477
+	Note Opening
+}
+{
+	Race 5
+	Class 1
+	Spell 6478
+	Note Opening
+}
+{
+	Race 5
+	Class 1
+	Spell 6603
+	Note Attack
+}
+{
+	Race 5
+	Class 1
+	Spell 7266
+	Note Duel
+}
+{
+	Race 5
+	Class 1
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 5
+	Class 1
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 5
+	Class 1
+	Spell 7744
+	Note "Will of the Forsaken"
+}
+{
+	Race 5
+	Class 1
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 5
+	Class 1
+	Spell 8737
+	Note Mail
+}
+{
+	Race 5
+	Class 1
+	Spell 9077
+	Note Leather
+}
+{
+	Race 5
+	Class 1
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 5
+	Class 1
+	Spell 9116
+	Note Shield
+}
+{
+	Race 5
+	Class 1
+	Spell 9125
+	Note Generic
+}
+{
+	Race 5
+	Class 1
+	Spell 17737
+	Note "Language Gutterspeak"
+}
+{
+	Race 5
+	Class 1
+	Spell 20577
+	Note Cannibalize
+}
+{
+	Race 5
+	Class 1
+	Spell 20579
+	Note "Shadow Resistance"
+}
+{
+	Race 5
+	Class 1
+	Spell 21651
+	Note Opening
+}
+{
+	Race 5
+	Class 1
+	Spell 21652
+	Note Closing
+}
+{
+	Race 5
+	Class 1
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 5
+	Class 1
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 5
+	Class 4
+	Spell 81
+	Note Dodge
+}
+{
+	Race 5
+	Class 4
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 5
+	Class 4
+	Spell 204
+	Note Defense
+}
+{
+	Race 5
+	Class 4
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 5
+	Class 4
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 5
+	Class 4
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 5
+	Class 4
+	Spell 1752
+	Note "Sinister Strike"
+}
+{
+	Race 5
+	Class 4
+	Spell 2098
+	Note Eviscerate
+}
+{
+	Race 5
+	Class 4
+	Spell 2382
+	Note Generic
+}
+{
+	Race 5
+	Class 4
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 5
+	Class 4
+	Spell 2567
+	Note Thrown
+}
+{
+	Race 5
+	Class 4
+	Spell 2764
+	Note Throw
+}
+{
+	Race 5
+	Class 4
+	Spell 3050
+	Note Detect
+}
+{
+	Race 5
+	Class 4
+	Spell 3365
+	Note Opening
+}
+{
+	Race 5
+	Class 4
+	Spell 5227
+	Note "Underwater Breathing"
+}
+{
+	Race 5
+	Class 4
+	Spell 6233
+	Note Closing
+}
+{
+	Race 5
+	Class 4
+	Spell 6246
+	Note Closing
+}
+{
+	Race 5
+	Class 4
+	Spell 6247
+	Note Opening
+}
+{
+	Race 5
+	Class 4
+	Spell 6477
+	Note Opening
+}
+{
+	Race 5
+	Class 4
+	Spell 6478
+	Note Opening
+}
+{
+	Race 5
+	Class 4
+	Spell 6603
+	Note Attack
+}
+{
+	Race 5
+	Class 4
+	Spell 7266
+	Note Duel
+}
+{
+	Race 5
+	Class 4
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 5
+	Class 4
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 5
+	Class 4
+	Spell 7744
+	Note "Will of the Forsaken"
+}
+{
+	Race 5
+	Class 4
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 5
+	Class 4
+	Spell 9077
+	Note Leather
+}
+{
+	Race 5
+	Class 4
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 5
+	Class 4
+	Spell 9125
+	Note Generic
+}
+{
+	Race 5
+	Class 4
+	Spell 16092
+	Note "Defensive State (DND)"
+}
+{
+	Race 5
+	Class 4
+	Spell 17737
+	Note "Language Gutterspeak"
+}
+{
+	Race 5
+	Class 4
+	Spell 20577
+	Note Cannibalize
+}
+{
+	Race 5
+	Class 4
+	Spell 20579
+	Note "Shadow Resistance"
+}
+{
+	Race 5
+	Class 4
+	Spell 21184
+	Note "Rogue Passive (DND)"
+}
+{
+	Race 5
+	Class 4
+	Spell 21651
+	Note Opening
+}
+{
+	Race 5
+	Class 4
+	Spell 21652
+	Note Closing
+}
+{
+	Race 5
+	Class 4
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 5
+	Class 4
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 5
+	Class 5
+	Spell 81
+	Note Dodge
+}
+{
+	Race 5
+	Class 5
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 5
+	Class 5
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 5
+	Class 5
+	Spell 204
+	Note Defense
+}
+{
+	Race 5
+	Class 5
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 5
+	Class 5
+	Spell 585
+	Note Smite
+}
+{
+	Race 5
+	Class 5
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 5
+	Class 5
+	Spell 2050
+	Note "Lesser Heal"
+}
+{
+	Race 5
+	Class 5
+	Spell 2382
+	Note Generic
+}
+{
+	Race 5
+	Class 5
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 5
+	Class 5
+	Spell 3050
+	Note Detect
+}
+{
+	Race 5
+	Class 5
+	Spell 3365
+	Note Opening
+}
+{
+	Race 5
+	Class 5
+	Spell 5009
+	Note Wands
+}
+{
+	Race 5
+	Class 5
+	Spell 5019
+	Note Shoot
+}
+{
+	Race 5
+	Class 5
+	Spell 5227
+	Note "Underwater Breathing"
+}
+{
+	Race 5
+	Class 5
+	Spell 6233
+	Note Closing
+}
+{
+	Race 5
+	Class 5
+	Spell 6246
+	Note Closing
+}
+{
+	Race 5
+	Class 5
+	Spell 6247
+	Note Opening
+}
+{
+	Race 5
+	Class 5
+	Spell 6477
+	Note Opening
+}
+{
+	Race 5
+	Class 5
+	Spell 6478
+	Note Opening
+}
+{
+	Race 5
+	Class 5
+	Spell 6603
+	Note Attack
+}
+{
+	Race 5
+	Class 5
+	Spell 7266
+	Note Duel
+}
+{
+	Race 5
+	Class 5
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 5
+	Class 5
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 5
+	Class 5
+	Spell 7744
+	Note "Will of the Forsaken"
+}
+{
+	Race 5
+	Class 5
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 5
+	Class 5
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 5
+	Class 5
+	Spell 9125
+	Note Generic
+}
+{
+	Race 5
+	Class 5
+	Spell 17737
+	Note "Language Gutterspeak"
+}
+{
+	Race 5
+	Class 5
+	Spell 20577
+	Note Cannibalize
+}
+{
+	Race 5
+	Class 5
+	Spell 20579
+	Note "Shadow Resistance"
+}
+{
+	Race 5
+	Class 5
+	Spell 21651
+	Note Opening
+}
+{
+	Race 5
+	Class 5
+	Spell 21652
+	Note Closing
+}
+{
+	Race 5
+	Class 5
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 5
+	Class 5
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 5
+	Class 8
+	Spell 81
+	Note Dodge
+}
+{
+	Race 5
+	Class 8
+	Spell 133
+	Note Fireball
+}
+{
+	Race 5
+	Class 8
+	Spell 168
+	Note "Frost Armor"
+}
+{
+	Race 5
+	Class 8
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 5
+	Class 8
+	Spell 204
+	Note Defense
+}
+{
+	Race 5
+	Class 8
+	Spell 227
+	Note Staves
+}
+{
+	Race 5
+	Class 8
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 5
+	Class 8
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 5
+	Class 8
+	Spell 2382
+	Note Generic
+}
+{
+	Race 5
+	Class 8
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 5
+	Class 8
+	Spell 3050
+	Note Detect
+}
+{
+	Race 5
+	Class 8
+	Spell 3365
+	Note Opening
+}
+{
+	Race 5
+	Class 8
+	Spell 5009
+	Note Wands
+}
+{
+	Race 5
+	Class 8
+	Spell 5019
+	Note Shoot
+}
+{
+	Race 5
+	Class 8
+	Spell 5227
+	Note "Underwater Breathing"
+}
+{
+	Race 5
+	Class 8
+	Spell 6233
+	Note Closing
+}
+{
+	Race 5
+	Class 8
+	Spell 6246
+	Note Closing
+}
+{
+	Race 5
+	Class 8
+	Spell 6247
+	Note Opening
+}
+{
+	Race 5
+	Class 8
+	Spell 6477
+	Note Opening
+}
+{
+	Race 5
+	Class 8
+	Spell 6478
+	Note Opening
+}
+{
+	Race 5
+	Class 8
+	Spell 6603
+	Note Attack
+}
+{
+	Race 5
+	Class 8
+	Spell 7266
+	Note Duel
+}
+{
+	Race 5
+	Class 8
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 5
+	Class 8
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 5
+	Class 8
+	Spell 7744
+	Note "Will of the Forsaken"
+}
+{
+	Race 5
+	Class 8
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 5
+	Class 8
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 5
+	Class 8
+	Spell 9125
+	Note Generic
+}
+{
+	Race 5
+	Class 8
+	Spell 17737
+	Note "Language Gutterspeak"
+}
+{
+	Race 5
+	Class 8
+	Spell 20577
+	Note Cannibalize
+}
+{
+	Race 5
+	Class 8
+	Spell 20579
+	Note "Shadow Resistance"
+}
+{
+	Race 5
+	Class 8
+	Spell 21651
+	Note Opening
+}
+{
+	Race 5
+	Class 8
+	Spell 21652
+	Note Closing
+}
+{
+	Race 5
+	Class 8
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 5
+	Class 8
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 5
+	Class 9
+	Spell 81
+	Note Dodge
+}
+{
+	Race 5
+	Class 9
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 5
+	Class 9
+	Spell 204
+	Note Defense
+}
+{
+	Race 5
+	Class 9
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 5
+	Class 9
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 5
+	Class 9
+	Spell 686
+	Note "Shadow Bolt"
+}
+{
+	Race 5
+	Class 9
+	Spell 687
+	Note "Demon Skin"
+}
+{
+	Race 5
+	Class 9
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 5
+	Class 9
+	Spell 2382
+	Note Generic
+}
+{
+	Race 5
+	Class 9
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 5
+	Class 9
+	Spell 3050
+	Note Detect
+}
+{
+	Race 5
+	Class 9
+	Spell 3365
+	Note Opening
+}
+{
+	Race 5
+	Class 9
+	Spell 5009
+	Note Wands
+}
+{
+	Race 5
+	Class 9
+	Spell 5019
+	Note Shoot
+}
+{
+	Race 5
+	Class 9
+	Spell 5227
+	Note "Underwater Breathing"
+}
+{
+	Race 5
+	Class 9
+	Spell 6233
+	Note Closing
+}
+{
+	Race 5
+	Class 9
+	Spell 6246
+	Note Closing
+}
+{
+	Race 5
+	Class 9
+	Spell 6247
+	Note Opening
+}
+{
+	Race 5
+	Class 9
+	Spell 6477
+	Note Opening
+}
+{
+	Race 5
+	Class 9
+	Spell 6478
+	Note Opening
+}
+{
+	Race 5
+	Class 9
+	Spell 6603
+	Note Attack
+}
+{
+	Race 5
+	Class 9
+	Spell 7266
+	Note Duel
+}
+{
+	Race 5
+	Class 9
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 5
+	Class 9
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 5
+	Class 9
+	Spell 7744
+	Note "Will of the Forsaken"
+}
+{
+	Race 5
+	Class 9
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 5
+	Class 9
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 5
+	Class 9
+	Spell 9125
+	Note Generic
+}
+{
+	Race 5
+	Class 9
+	Spell 17737
+	Note "Language Gutterspeak"
+}
+{
+	Race 5
+	Class 9
+	Spell 20577
+	Note Cannibalize
+}
+{
+	Race 5
+	Class 9
+	Spell 20579
+	Note "Shadow Resistance"
+}
+{
+	Race 5
+	Class 9
+	Spell 21651
+	Note Opening
+}
+{
+	Race 5
+	Class 9
+	Spell 21652
+	Note Closing
+}
+{
+	Race 5
+	Class 9
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 5
+	Class 9
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 6
+	Class 1
+	Spell 78
+	Note "Heroic Strike"
+}
+{
+	Race 6
+	Class 1
+	Spell 81
+	Note Dodge
+}
+{
+	Race 6
+	Class 1
+	Spell 107
+	Note Block
+}
+{
+	Race 6
+	Class 1
+	Spell 196
+	Note "One-Handed Axes"
+}
+{
+	Race 6
+	Class 1
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 6
+	Class 1
+	Spell 199
+	Note "Two-Handed Maces"
+}
+{
+	Race 6
+	Class 1
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 6
+	Class 1
+	Spell 204
+	Note Defense
+}
+{
+	Race 6
+	Class 1
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 6
+	Class 1
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 6
+	Class 1
+	Spell 670
+	Note "Language Taurahe"
+}
+{
+	Race 6
+	Class 1
+	Spell 2382
+	Note Generic
+}
+{
+	Race 6
+	Class 1
+	Spell 2457
+	Note "Battle Stance"
+}
+{
+	Race 6
+	Class 1
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 6
+	Class 1
+	Spell 3050
+	Note Detect
+}
+{
+	Race 6
+	Class 1
+	Spell 3365
+	Note Opening
+}
+{
+	Race 6
+	Class 1
+	Spell 5301
+	Note "Defensive State (DND)"
+}
+{
+	Race 6
+	Class 1
+	Spell 6233
+	Note Closing
+}
+{
+	Race 6
+	Class 1
+	Spell 6246
+	Note Closing
+}
+{
+	Race 6
+	Class 1
+	Spell 6247
+	Note Opening
+}
+{
+	Race 6
+	Class 1
+	Spell 6477
+	Note Opening
+}
+{
+	Race 6
+	Class 1
+	Spell 6478
+	Note Opening
+}
+{
+	Race 6
+	Class 1
+	Spell 6603
+	Note Attack
+}
+{
+	Race 6
+	Class 1
+	Spell 7266
+	Note Duel
+}
+{
+	Race 6
+	Class 1
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 6
+	Class 1
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 6
+	Class 1
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 6
+	Class 1
+	Spell 8737
+	Note Mail
+}
+{
+	Race 6
+	Class 1
+	Spell 9077
+	Note Leather
+}
+{
+	Race 6
+	Class 1
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 6
+	Class 1
+	Spell 9116
+	Note Shield
+}
+{
+	Race 6
+	Class 1
+	Spell 9125
+	Note Generic
+}
+{
+	Race 6
+	Class 1
+	Spell 20549
+	Note "War Stomp"
+}
+{
+	Race 6
+	Class 1
+	Spell 20550
+	Note Endurance
+}
+{
+	Race 6
+	Class 1
+	Spell 20551
+	Note "Nature Resistance"
+}
+{
+	Race 6
+	Class 1
+	Spell 20552
+	Note Cultivation
+}
+{
+	Race 6
+	Class 1
+	Spell 21651
+	Note Opening
+}
+{
+	Race 6
+	Class 1
+	Spell 21652
+	Note Closing
+}
+{
+	Race 6
+	Class 1
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 6
+	Class 1
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 6
+	Class 3
+	Spell 75
+	Note "Auto Shot"
+}
+{
+	Race 6
+	Class 3
+	Spell 81
+	Note Dodge
+}
+{
+	Race 6
+	Class 3
+	Spell 196
+	Note "One-Handed Axes"
+}
+{
+	Race 6
+	Class 3
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 6
+	Class 3
+	Spell 204
+	Note Defense
+}
+{
+	Race 6
+	Class 3
+	Spell 266
+	Note Guns
+}
+{
+	Race 6
+	Class 3
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 6
+	Class 3
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 6
+	Class 3
+	Spell 670
+	Note "Language Taurahe"
+}
+{
+	Race 6
+	Class 3
+	Spell 2382
+	Note Generic
+}
+{
+	Race 6
+	Class 3
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 6
+	Class 3
+	Spell 2973
+	Note "Raptor Strike"
+}
+{
+	Race 6
+	Class 3
+	Spell 3050
+	Note Detect
+}
+{
+	Race 6
+	Class 3
+	Spell 3365
+	Note Opening
+}
+{
+	Race 6
+	Class 3
+	Spell 6233
+	Note Closing
+}
+{
+	Race 6
+	Class 3
+	Spell 6246
+	Note Closing
+}
+{
+	Race 6
+	Class 3
+	Spell 6247
+	Note Opening
+}
+{
+	Race 6
+	Class 3
+	Spell 6477
+	Note Opening
+}
+{
+	Race 6
+	Class 3
+	Spell 6478
+	Note Opening
+}
+{
+	Race 6
+	Class 3
+	Spell 6603
+	Note Attack
+}
+{
+	Race 6
+	Class 3
+	Spell 7266
+	Note Duel
+}
+{
+	Race 6
+	Class 3
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 6
+	Class 3
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 6
+	Class 3
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 6
+	Class 3
+	Spell 9077
+	Note Leather
+}
+{
+	Race 6
+	Class 3
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 6
+	Class 3
+	Spell 9125
+	Note Generic
+}
+{
+	Race 6
+	Class 3
+	Spell 13358
+	Note "Defensive State (DND)"
+}
+{
+	Race 6
+	Class 3
+	Spell 20549
+	Note "War Stomp"
+}
+{
+	Race 6
+	Class 3
+	Spell 20550
+	Note Endurance
+}
+{
+	Race 6
+	Class 3
+	Spell 20551
+	Note "Nature Resistance"
+}
+{
+	Race 6
+	Class 3
+	Spell 20552
+	Note Cultivation
+}
+{
+	Race 6
+	Class 3
+	Spell 21651
+	Note Opening
+}
+{
+	Race 6
+	Class 3
+	Spell 21652
+	Note Closing
+}
+{
+	Race 6
+	Class 3
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 6
+	Class 3
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 6
+	Class 3
+	Spell 24949
+	Note "Defensive State 2 (DND)"
+}
+{
+	Race 6
+	Class 7
+	Spell 81
+	Note Dodge
+}
+{
+	Race 6
+	Class 7
+	Spell 107
+	Note Block
+}
+{
+	Race 6
+	Class 7
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 6
+	Class 7
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 6
+	Class 7
+	Spell 204
+	Note Defense
+}
+{
+	Race 6
+	Class 7
+	Spell 227
+	Note Staves
+}
+{
+	Race 6
+	Class 7
+	Spell 331
+	Note "Healing Wave"
+}
+{
+	Race 6
+	Class 7
+	Spell 403
+	Note "Lightning Bolt"
+}
+{
+	Race 6
+	Class 7
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 6
+	Class 7
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 6
+	Class 7
+	Spell 670
+	Note "Language Taurahe"
+}
+{
+	Race 6
+	Class 7
+	Spell 2382
+	Note Generic
+}
+{
+	Race 6
+	Class 7
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 6
+	Class 7
+	Spell 3050
+	Note Detect
+}
+{
+	Race 6
+	Class 7
+	Spell 3365
+	Note Opening
+}
+{
+	Race 6
+	Class 7
+	Spell 6233
+	Note Closing
+}
+{
+	Race 6
+	Class 7
+	Spell 6246
+	Note Closing
+}
+{
+	Race 6
+	Class 7
+	Spell 6247
+	Note Opening
+}
+{
+	Race 6
+	Class 7
+	Spell 6477
+	Note Opening
+}
+{
+	Race 6
+	Class 7
+	Spell 6478
+	Note Opening
+}
+{
+	Race 6
+	Class 7
+	Spell 6603
+	Note Attack
+}
+{
+	Race 6
+	Class 7
+	Spell 7266
+	Note Duel
+}
+{
+	Race 6
+	Class 7
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 6
+	Class 7
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 6
+	Class 7
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 6
+	Class 7
+	Spell 9077
+	Note Leather
+}
+{
+	Race 6
+	Class 7
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 6
+	Class 7
+	Spell 9116
+	Note Shield
+}
+{
+	Race 6
+	Class 7
+	Spell 9125
+	Note Generic
+}
+{
+	Race 6
+	Class 7
+	Spell 20549
+	Note "War Stomp"
+}
+{
+	Race 6
+	Class 7
+	Spell 20550
+	Note Endurance
+}
+{
+	Race 6
+	Class 7
+	Spell 20551
+	Note "Nature Resistance"
+}
+{
+	Race 6
+	Class 7
+	Spell 20552
+	Note Cultivation
+}
+{
+	Race 6
+	Class 7
+	Spell 21651
+	Note Opening
+}
+{
+	Race 6
+	Class 7
+	Spell 21652
+	Note Closing
+}
+{
+	Race 6
+	Class 7
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 6
+	Class 7
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 6
+	Class 7
+	Spell 27763
+	Note Totem
+}
+{
+	Race 6
+	Class 11
+	Spell 81
+	Note Dodge
+}
+{
+	Race 6
+	Class 11
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 6
+	Class 11
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 6
+	Class 11
+	Spell 204
+	Note Defense
+}
+{
+	Race 6
+	Class 11
+	Spell 227
+	Note Staves
+}
+{
+	Race 6
+	Class 11
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 6
+	Class 11
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 6
+	Class 11
+	Spell 670
+	Note "Language Taurahe"
+}
+{
+	Race 6
+	Class 11
+	Spell 2382
+	Note Generic
+}
+{
+	Race 6
+	Class 11
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 6
+	Class 11
+	Spell 3050
+	Note Detect
+}
+{
+	Race 6
+	Class 11
+	Spell 3365
+	Note Opening
+}
+{
+	Race 6
+	Class 11
+	Spell 5176
+	Note Wrath
+}
+{
+	Race 6
+	Class 11
+	Spell 5185
+	Note "Healing Touch"
+}
+{
+	Race 6
+	Class 11
+	Spell 6233
+	Note Closing
+}
+{
+	Race 6
+	Class 11
+	Spell 6246
+	Note Closing
+}
+{
+	Race 6
+	Class 11
+	Spell 6247
+	Note Opening
+}
+{
+	Race 6
+	Class 11
+	Spell 6477
+	Note Opening
+}
+{
+	Race 6
+	Class 11
+	Spell 6478
+	Note Opening
+}
+{
+	Race 6
+	Class 11
+	Spell 6603
+	Note Attack
+}
+{
+	Race 6
+	Class 11
+	Spell 7266
+	Note Duel
+}
+{
+	Race 6
+	Class 11
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 6
+	Class 11
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 6
+	Class 11
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 6
+	Class 11
+	Spell 9077
+	Note Leather
+}
+{
+	Race 6
+	Class 11
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 6
+	Class 11
+	Spell 9125
+	Note Generic
+}
+{
+	Race 6
+	Class 11
+	Spell 20549
+	Note "War Stomp"
+}
+{
+	Race 6
+	Class 11
+	Spell 20550
+	Note Endurance
+}
+{
+	Race 6
+	Class 11
+	Spell 20551
+	Note "Nature Resistance"
+}
+{
+	Race 6
+	Class 11
+	Spell 20552
+	Note Cultivation
+}
+{
+	Race 6
+	Class 11
+	Spell 21651
+	Note Opening
+}
+{
+	Race 6
+	Class 11
+	Spell 21652
+	Note Closing
+}
+{
+	Race 6
+	Class 11
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 6
+	Class 11
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 6
+	Class 11
+	Spell 27764
+	Note Fetish
+}
+{
+	Race 7
+	Class 1
+	Spell 78
+	Note "Heroic Strike"
+}
+{
+	Race 7
+	Class 1
+	Spell 81
+	Note Dodge
+}
+{
+	Race 7
+	Class 1
+	Spell 107
+	Note Block
+}
+{
+	Race 7
+	Class 1
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 7
+	Class 1
+	Spell 201
+	Note "One-Handed Swords"
+}
+{
+	Race 7
+	Class 1
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 7
+	Class 1
+	Spell 204
+	Note Defense
+}
+{
+	Race 7
+	Class 1
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 7
+	Class 1
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 7
+	Class 1
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 7
+	Class 1
+	Spell 2382
+	Note Generic
+}
+{
+	Race 7
+	Class 1
+	Spell 2457
+	Note "Battle Stance"
+}
+{
+	Race 7
+	Class 1
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 7
+	Class 1
+	Spell 3050
+	Note Detect
+}
+{
+	Race 7
+	Class 1
+	Spell 3365
+	Note Opening
+}
+{
+	Race 7
+	Class 1
+	Spell 5301
+	Note "Defensive State (DND)"
+}
+{
+	Race 7
+	Class 1
+	Spell 6233
+	Note Closing
+}
+{
+	Race 7
+	Class 1
+	Spell 6246
+	Note Closing
+}
+{
+	Race 7
+	Class 1
+	Spell 6247
+	Note Opening
+}
+{
+	Race 7
+	Class 1
+	Spell 6477
+	Note Opening
+}
+{
+	Race 7
+	Class 1
+	Spell 6478
+	Note Opening
+}
+{
+	Race 7
+	Class 1
+	Spell 6603
+	Note Attack
+}
+{
+	Race 7
+	Class 1
+	Spell 7266
+	Note Duel
+}
+{
+	Race 7
+	Class 1
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 7
+	Class 1
+	Spell 7340
+	Note "Language Gnomish"
+}
+{
+	Race 7
+	Class 1
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 7
+	Class 1
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 7
+	Class 1
+	Spell 8737
+	Note Mail
+}
+{
+	Race 7
+	Class 1
+	Spell 9077
+	Note Leather
+}
+{
+	Race 7
+	Class 1
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 7
+	Class 1
+	Spell 9116
+	Note Shield
+}
+{
+	Race 7
+	Class 1
+	Spell 9125
+	Note Generic
+}
+{
+	Race 7
+	Class 1
+	Spell 20589
+	Note "Escape Artist"
+}
+{
+	Race 7
+	Class 1
+	Spell 20591
+	Note "Expansive Mind"
+}
+{
+	Race 7
+	Class 1
+	Spell 20592
+	Note "Arcane Resistance"
+}
+{
+	Race 7
+	Class 1
+	Spell 20593
+	Note "Engineering Specialization"
+}
+{
+	Race 7
+	Class 1
+	Spell 21651
+	Note Opening
+}
+{
+	Race 7
+	Class 1
+	Spell 21652
+	Note Closing
+}
+{
+	Race 7
+	Class 1
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 7
+	Class 1
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 7
+	Class 4
+	Spell 81
+	Note Dodge
+}
+{
+	Race 7
+	Class 4
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 7
+	Class 4
+	Spell 204
+	Note Defense
+}
+{
+	Race 7
+	Class 4
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 7
+	Class 4
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 7
+	Class 4
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 7
+	Class 4
+	Spell 1752
+	Note "Sinister Strike"
+}
+{
+	Race 7
+	Class 4
+	Spell 2098
+	Note Eviscerate
+}
+{
+	Race 7
+	Class 4
+	Spell 2382
+	Note Generic
+}
+{
+	Race 7
+	Class 4
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 7
+	Class 4
+	Spell 2567
+	Note Thrown
+}
+{
+	Race 7
+	Class 4
+	Spell 2764
+	Note Throw
+}
+{
+	Race 7
+	Class 4
+	Spell 3050
+	Note Detect
+}
+{
+	Race 7
+	Class 4
+	Spell 3365
+	Note Opening
+}
+{
+	Race 7
+	Class 4
+	Spell 6233
+	Note Closing
+}
+{
+	Race 7
+	Class 4
+	Spell 6246
+	Note Closing
+}
+{
+	Race 7
+	Class 4
+	Spell 6247
+	Note Opening
+}
+{
+	Race 7
+	Class 4
+	Spell 6477
+	Note Opening
+}
+{
+	Race 7
+	Class 4
+	Spell 6478
+	Note Opening
+}
+{
+	Race 7
+	Class 4
+	Spell 6603
+	Note Attack
+}
+{
+	Race 7
+	Class 4
+	Spell 7266
+	Note Duel
+}
+{
+	Race 7
+	Class 4
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 7
+	Class 4
+	Spell 7340
+	Note "Language Gnomish"
+}
+{
+	Race 7
+	Class 4
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 7
+	Class 4
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 7
+	Class 4
+	Spell 9077
+	Note Leather
+}
+{
+	Race 7
+	Class 4
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 7
+	Class 4
+	Spell 9125
+	Note Generic
+}
+{
+	Race 7
+	Class 4
+	Spell 16092
+	Note "Defensive State (DND)"
+}
+{
+	Race 7
+	Class 4
+	Spell 20589
+	Note "Escape Artist"
+}
+{
+	Race 7
+	Class 4
+	Spell 20591
+	Note "Expansive Mind"
+}
+{
+	Race 7
+	Class 4
+	Spell 20592
+	Note "Arcane Resistance"
+}
+{
+	Race 7
+	Class 4
+	Spell 20593
+	Note "Engineering Specialization"
+}
+{
+	Race 7
+	Class 4
+	Spell 21184
+	Note "Rogue Passive (DND)"
+}
+{
+	Race 7
+	Class 4
+	Spell 21651
+	Note Opening
+}
+{
+	Race 7
+	Class 4
+	Spell 21652
+	Note Closing
+}
+{
+	Race 7
+	Class 4
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 7
+	Class 4
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 7
+	Class 8
+	Spell 81
+	Note Dodge
+}
+{
+	Race 7
+	Class 8
+	Spell 133
+	Note Fireball
+}
+{
+	Race 7
+	Class 8
+	Spell 168
+	Note "Frost Armor"
+}
+{
+	Race 7
+	Class 8
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 7
+	Class 8
+	Spell 204
+	Note Defense
+}
+{
+	Race 7
+	Class 8
+	Spell 227
+	Note Staves
+}
+{
+	Race 7
+	Class 8
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 7
+	Class 8
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 7
+	Class 8
+	Spell 2382
+	Note Generic
+}
+{
+	Race 7
+	Class 8
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 7
+	Class 8
+	Spell 3050
+	Note Detect
+}
+{
+	Race 7
+	Class 8
+	Spell 3365
+	Note Opening
+}
+{
+	Race 7
+	Class 8
+	Spell 5009
+	Note Wands
+}
+{
+	Race 7
+	Class 8
+	Spell 5019
+	Note Shoot
+}
+{
+	Race 7
+	Class 8
+	Spell 6233
+	Note Closing
+}
+{
+	Race 7
+	Class 8
+	Spell 6246
+	Note Closing
+}
+{
+	Race 7
+	Class 8
+	Spell 6247
+	Note Opening
+}
+{
+	Race 7
+	Class 8
+	Spell 6477
+	Note Opening
+}
+{
+	Race 7
+	Class 8
+	Spell 6478
+	Note Opening
+}
+{
+	Race 7
+	Class 8
+	Spell 6603
+	Note Attack
+}
+{
+	Race 7
+	Class 8
+	Spell 7266
+	Note Duel
+}
+{
+	Race 7
+	Class 8
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 7
+	Class 8
+	Spell 7340
+	Note "Language Gnomish"
+}
+{
+	Race 7
+	Class 8
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 7
+	Class 8
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 7
+	Class 8
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 7
+	Class 8
+	Spell 9125
+	Note Generic
+}
+{
+	Race 7
+	Class 8
+	Spell 20589
+	Note "Escape Artist"
+}
+{
+	Race 7
+	Class 8
+	Spell 20591
+	Note "Expansive Mind"
+}
+{
+	Race 7
+	Class 8
+	Spell 20592
+	Note "Arcane Resistance"
+}
+{
+	Race 7
+	Class 8
+	Spell 20593
+	Note "Engineering Specialization"
+}
+{
+	Race 7
+	Class 8
+	Spell 21651
+	Note Opening
+}
+{
+	Race 7
+	Class 8
+	Spell 21652
+	Note Closing
+}
+{
+	Race 7
+	Class 8
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 7
+	Class 8
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 7
+	Class 9
+	Spell 81
+	Note Dodge
+}
+{
+	Race 7
+	Class 9
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 7
+	Class 9
+	Spell 204
+	Note Defense
+}
+{
+	Race 7
+	Class 9
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 7
+	Class 9
+	Spell 668
+	Note "Language Common"
+}
+{
+	Race 7
+	Class 9
+	Spell 686
+	Note "Shadow Bolt"
+}
+{
+	Race 7
+	Class 9
+	Spell 687
+	Note "Demon Skin"
+}
+{
+	Race 7
+	Class 9
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 7
+	Class 9
+	Spell 2382
+	Note Generic
+}
+{
+	Race 7
+	Class 9
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 7
+	Class 9
+	Spell 3050
+	Note Detect
+}
+{
+	Race 7
+	Class 9
+	Spell 3365
+	Note Opening
+}
+{
+	Race 7
+	Class 9
+	Spell 5009
+	Note Wands
+}
+{
+	Race 7
+	Class 9
+	Spell 5019
+	Note Shoot
+}
+{
+	Race 7
+	Class 9
+	Spell 6233
+	Note Closing
+}
+{
+	Race 7
+	Class 9
+	Spell 6246
+	Note Closing
+}
+{
+	Race 7
+	Class 9
+	Spell 6247
+	Note Opening
+}
+{
+	Race 7
+	Class 9
+	Spell 6477
+	Note Opening
+}
+{
+	Race 7
+	Class 9
+	Spell 6478
+	Note Opening
+}
+{
+	Race 7
+	Class 9
+	Spell 6603
+	Note Attack
+}
+{
+	Race 7
+	Class 9
+	Spell 7266
+	Note Duel
+}
+{
+	Race 7
+	Class 9
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 7
+	Class 9
+	Spell 7340
+	Note "Language Gnomish"
+}
+{
+	Race 7
+	Class 9
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 7
+	Class 9
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 7
+	Class 9
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 7
+	Class 9
+	Spell 9125
+	Note Generic
+}
+{
+	Race 7
+	Class 9
+	Spell 20589
+	Note "Escape Artist"
+}
+{
+	Race 7
+	Class 9
+	Spell 20591
+	Note "Expansive Mind"
+}
+{
+	Race 7
+	Class 9
+	Spell 20592
+	Note "Arcane Resistance"
+}
+{
+	Race 7
+	Class 9
+	Spell 20593
+	Note "Engineering Specialization"
+}
+{
+	Race 7
+	Class 9
+	Spell 21651
+	Note Opening
+}
+{
+	Race 7
+	Class 9
+	Spell 21652
+	Note Closing
+}
+{
+	Race 7
+	Class 9
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 7
+	Class 9
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 8
+	Class 1
+	Spell 78
+	Note "Heroic Strike"
+}
+{
+	Race 8
+	Class 1
+	Spell 81
+	Note Dodge
+}
+{
+	Race 8
+	Class 1
+	Spell 107
+	Note Block
+}
+{
+	Race 8
+	Class 1
+	Spell 196
+	Note "One-Handed Axes"
+}
+{
+	Race 8
+	Class 1
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 8
+	Class 1
+	Spell 204
+	Note Defense
+}
+{
+	Race 8
+	Class 1
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 8
+	Class 1
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 8
+	Class 1
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 8
+	Class 1
+	Spell 2382
+	Note Generic
+}
+{
+	Race 8
+	Class 1
+	Spell 2457
+	Note "Battle Stance"
+}
+{
+	Race 8
+	Class 1
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 8
+	Class 1
+	Spell 2567
+	Note Thrown
+}
+{
+	Race 8
+	Class 1
+	Spell 2764
+	Note Throw
+}
+{
+	Race 8
+	Class 1
+	Spell 3050
+	Note Detect
+}
+{
+	Race 8
+	Class 1
+	Spell 3365
+	Note Opening
+}
+{
+	Race 8
+	Class 1
+	Spell 5301
+	Note "Defensive State (DND)"
+}
+{
+	Race 8
+	Class 1
+	Spell 6233
+	Note Closing
+}
+{
+	Race 8
+	Class 1
+	Spell 6246
+	Note Closing
+}
+{
+	Race 8
+	Class 1
+	Spell 6247
+	Note Opening
+}
+{
+	Race 8
+	Class 1
+	Spell 6477
+	Note Opening
+}
+{
+	Race 8
+	Class 1
+	Spell 6478
+	Note Opening
+}
+{
+	Race 8
+	Class 1
+	Spell 6603
+	Note Attack
+}
+{
+	Race 8
+	Class 1
+	Spell 7266
+	Note Duel
+}
+{
+	Race 8
+	Class 1
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 8
+	Class 1
+	Spell 7341
+	Note "Language Troll"
+}
+{
+	Race 8
+	Class 1
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 8
+	Class 1
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 8
+	Class 1
+	Spell 8737
+	Note Mail
+}
+{
+	Race 8
+	Class 1
+	Spell 9077
+	Note Leather
+}
+{
+	Race 8
+	Class 1
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 8
+	Class 1
+	Spell 9116
+	Note Shield
+}
+{
+	Race 8
+	Class 1
+	Spell 9125
+	Note Generic
+}
+{
+	Race 8
+	Class 1
+	Spell 20555
+	Note Regeneration
+}
+{
+	Race 8
+	Class 1
+	Spell 20557
+	Note "Beast Slaying"
+}
+{
+	Race 8
+	Class 1
+	Spell 20558
+	Note "Throwing Specialization"
+}
+{
+	Race 8
+	Class 1
+	Spell 21651
+	Note Opening
+}
+{
+	Race 8
+	Class 1
+	Spell 21652
+	Note Closing
+}
+{
+	Race 8
+	Class 1
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 8
+	Class 1
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 8
+	Class 1
+	Spell 26290
+	Note "Bow Specialization"
+}
+{
+	Race 8
+	Class 1
+	Spell 26296
+	Note Berserking
+}
+{
+	Race 8
+	Class 3
+	Spell 75
+	Note "Auto Shot"
+}
+{
+	Race 8
+	Class 3
+	Spell 81
+	Note Dodge
+}
+{
+	Race 8
+	Class 3
+	Spell 196
+	Note "One-Handed Axes"
+}
+{
+	Race 8
+	Class 3
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 8
+	Class 3
+	Spell 204
+	Note Defense
+}
+{
+	Race 8
+	Class 3
+	Spell 264
+	Note Bows
+}
+{
+	Race 8
+	Class 3
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 8
+	Class 3
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 8
+	Class 3
+	Spell 2382
+	Note Generic
+}
+{
+	Race 8
+	Class 3
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 8
+	Class 3
+	Spell 2973
+	Note "Raptor Strike"
+}
+{
+	Race 8
+	Class 3
+	Spell 3050
+	Note Detect
+}
+{
+	Race 8
+	Class 3
+	Spell 3365
+	Note Opening
+}
+{
+	Race 8
+	Class 3
+	Spell 6233
+	Note Closing
+}
+{
+	Race 8
+	Class 3
+	Spell 6246
+	Note Closing
+}
+{
+	Race 8
+	Class 3
+	Spell 6247
+	Note Opening
+}
+{
+	Race 8
+	Class 3
+	Spell 6477
+	Note Opening
+}
+{
+	Race 8
+	Class 3
+	Spell 6478
+	Note Opening
+}
+{
+	Race 8
+	Class 3
+	Spell 6603
+	Note Attack
+}
+{
+	Race 8
+	Class 3
+	Spell 7266
+	Note Duel
+}
+{
+	Race 8
+	Class 3
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 8
+	Class 3
+	Spell 7341
+	Note "Language Troll"
+}
+{
+	Race 8
+	Class 3
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 8
+	Class 3
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 8
+	Class 3
+	Spell 9077
+	Note Leather
+}
+{
+	Race 8
+	Class 3
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 8
+	Class 3
+	Spell 9125
+	Note Generic
+}
+{
+	Race 8
+	Class 3
+	Spell 13358
+	Note "Defensive State (DND)"
+}
+{
+	Race 8
+	Class 3
+	Spell 20554
+	Note Berserking
+}
+{
+	Race 8
+	Class 3
+	Spell 20555
+	Note Regeneration
+}
+{
+	Race 8
+	Class 3
+	Spell 20557
+	Note "Beast Slaying"
+}
+{
+	Race 8
+	Class 3
+	Spell 20558
+	Note "Throwing Specialization"
+}
+{
+	Race 8
+	Class 3
+	Spell 21651
+	Note Opening
+}
+{
+	Race 8
+	Class 3
+	Spell 21652
+	Note Closing
+}
+{
+	Race 8
+	Class 3
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 8
+	Class 3
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 8
+	Class 3
+	Spell 24949
+	Note "Defensive State 2 (DND)"
+}
+{
+	Race 8
+	Class 3
+	Spell 26290
+	Note "Bow Specialization"
+}
+{
+	Race 8
+	Class 4
+	Spell 81
+	Note Dodge
+}
+{
+	Race 8
+	Class 4
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 8
+	Class 4
+	Spell 204
+	Note Defense
+}
+{
+	Race 8
+	Class 4
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 8
+	Class 4
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 8
+	Class 4
+	Spell 1180
+	Note Daggers
+}
+{
+	Race 8
+	Class 4
+	Spell 1752
+	Note "Sinister Strike"
+}
+{
+	Race 8
+	Class 4
+	Spell 2098
+	Note Eviscerate
+}
+{
+	Race 8
+	Class 4
+	Spell 2382
+	Note Generic
+}
+{
+	Race 8
+	Class 4
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 8
+	Class 4
+	Spell 2567
+	Note Thrown
+}
+{
+	Race 8
+	Class 4
+	Spell 2764
+	Note Throw
+}
+{
+	Race 8
+	Class 4
+	Spell 3050
+	Note Detect
+}
+{
+	Race 8
+	Class 4
+	Spell 3365
+	Note Opening
+}
+{
+	Race 8
+	Class 4
+	Spell 6233
+	Note Closing
+}
+{
+	Race 8
+	Class 4
+	Spell 6246
+	Note Closing
+}
+{
+	Race 8
+	Class 4
+	Spell 6247
+	Note Opening
+}
+{
+	Race 8
+	Class 4
+	Spell 6477
+	Note Opening
+}
+{
+	Race 8
+	Class 4
+	Spell 6478
+	Note Opening
+}
+{
+	Race 8
+	Class 4
+	Spell 6603
+	Note Attack
+}
+{
+	Race 8
+	Class 4
+	Spell 7266
+	Note Duel
+}
+{
+	Race 8
+	Class 4
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 8
+	Class 4
+	Spell 7341
+	Note "Language Troll"
+}
+{
+	Race 8
+	Class 4
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 8
+	Class 4
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 8
+	Class 4
+	Spell 9077
+	Note Leather
+}
+{
+	Race 8
+	Class 4
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 8
+	Class 4
+	Spell 9125
+	Note Generic
+}
+{
+	Race 8
+	Class 4
+	Spell 16092
+	Note "Defensive State (DND)"
+}
+{
+	Race 8
+	Class 4
+	Spell 20555
+	Note Regeneration
+}
+{
+	Race 8
+	Class 4
+	Spell 20557
+	Note "Beast Slaying"
+}
+{
+	Race 8
+	Class 4
+	Spell 20558
+	Note "Throwing Specialization"
+}
+{
+	Race 8
+	Class 4
+	Spell 21184
+	Note "Rogue Passive (DND)"
+}
+{
+	Race 8
+	Class 4
+	Spell 21651
+	Note Opening
+}
+{
+	Race 8
+	Class 4
+	Spell 21652
+	Note Closing
+}
+{
+	Race 8
+	Class 4
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 8
+	Class 4
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 8
+	Class 4
+	Spell 26290
+	Note "Bow Specialization"
+}
+{
+	Race 8
+	Class 4
+	Spell 26297
+	Note Berserking
+}
+{
+	Race 8
+	Class 5
+	Spell 81
+	Note Dodge
+}
+{
+	Race 8
+	Class 5
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 8
+	Class 5
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 8
+	Class 5
+	Spell 204
+	Note Defense
+}
+{
+	Race 8
+	Class 5
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 8
+	Class 5
+	Spell 585
+	Note Smite
+}
+{
+	Race 8
+	Class 5
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 8
+	Class 5
+	Spell 2050
+	Note "Lesser Heal"
+}
+{
+	Race 8
+	Class 5
+	Spell 2382
+	Note Generic
+}
+{
+	Race 8
+	Class 5
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 8
+	Class 5
+	Spell 3050
+	Note Detect
+}
+{
+	Race 8
+	Class 5
+	Spell 3365
+	Note Opening
+}
+{
+	Race 8
+	Class 5
+	Spell 5009
+	Note Wands
+}
+{
+	Race 8
+	Class 5
+	Spell 5019
+	Note Shoot
+}
+{
+	Race 8
+	Class 5
+	Spell 6233
+	Note Closing
+}
+{
+	Race 8
+	Class 5
+	Spell 6246
+	Note Closing
+}
+{
+	Race 8
+	Class 5
+	Spell 6247
+	Note Opening
+}
+{
+	Race 8
+	Class 5
+	Spell 6477
+	Note Opening
+}
+{
+	Race 8
+	Class 5
+	Spell 6478
+	Note Opening
+}
+{
+	Race 8
+	Class 5
+	Spell 6603
+	Note Attack
+}
+{
+	Race 8
+	Class 5
+	Spell 7266
+	Note Duel
+}
+{
+	Race 8
+	Class 5
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 8
+	Class 5
+	Spell 7341
+	Note "Language Troll"
+}
+{
+	Race 8
+	Class 5
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 8
+	Class 5
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 8
+	Class 5
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 8
+	Class 5
+	Spell 9125
+	Note Generic
+}
+{
+	Race 8
+	Class 5
+	Spell 20554
+	Note Berserking
+}
+{
+	Race 8
+	Class 5
+	Spell 20555
+	Note Regeneration
+}
+{
+	Race 8
+	Class 5
+	Spell 20557
+	Note "Beast Slaying"
+}
+{
+	Race 8
+	Class 5
+	Spell 20558
+	Note "Throwing Specialization"
+}
+{
+	Race 8
+	Class 5
+	Spell 21651
+	Note Opening
+}
+{
+	Race 8
+	Class 5
+	Spell 21652
+	Note Closing
+}
+{
+	Race 8
+	Class 5
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 8
+	Class 5
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 8
+	Class 5
+	Spell 26290
+	Note "Bow Specialization"
+}
+{
+	Race 8
+	Class 7
+	Spell 81
+	Note Dodge
+}
+{
+	Race 8
+	Class 7
+	Spell 107
+	Note Block
+}
+{
+	Race 8
+	Class 7
+	Spell 198
+	Note "One-Handed Maces"
+}
+{
+	Race 8
+	Class 7
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 8
+	Class 7
+	Spell 204
+	Note Defense
+}
+{
+	Race 8
+	Class 7
+	Spell 227
+	Note Staves
+}
+{
+	Race 8
+	Class 7
+	Spell 331
+	Note "Healing Wave"
+}
+{
+	Race 8
+	Class 7
+	Spell 403
+	Note "Lightning Bolt"
+}
+{
+	Race 8
+	Class 7
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 8
+	Class 7
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 8
+	Class 7
+	Spell 2382
+	Note Generic
+}
+{
+	Race 8
+	Class 7
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 8
+	Class 7
+	Spell 3050
+	Note Detect
+}
+{
+	Race 8
+	Class 7
+	Spell 3365
+	Note Opening
+}
+{
+	Race 8
+	Class 7
+	Spell 6233
+	Note Closing
+}
+{
+	Race 8
+	Class 7
+	Spell 6246
+	Note Closing
+}
+{
+	Race 8
+	Class 7
+	Spell 6247
+	Note Opening
+}
+{
+	Race 8
+	Class 7
+	Spell 6477
+	Note Opening
+}
+{
+	Race 8
+	Class 7
+	Spell 6478
+	Note Opening
+}
+{
+	Race 8
+	Class 7
+	Spell 6603
+	Note Attack
+}
+{
+	Race 8
+	Class 7
+	Spell 7266
+	Note Duel
+}
+{
+	Race 8
+	Class 7
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 8
+	Class 7
+	Spell 7341
+	Note "Language Troll"
+}
+{
+	Race 8
+	Class 7
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 8
+	Class 7
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 8
+	Class 7
+	Spell 9077
+	Note Leather
+}
+{
+	Race 8
+	Class 7
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 8
+	Class 7
+	Spell 9116
+	Note Shield
+}
+{
+	Race 8
+	Class 7
+	Spell 9125
+	Note Generic
+}
+{
+	Race 8
+	Class 7
+	Spell 20554
+	Note Berserking
+}
+{
+	Race 8
+	Class 7
+	Spell 20555
+	Note Regeneration
+}
+{
+	Race 8
+	Class 7
+	Spell 20557
+	Note "Beast Slaying"
+}
+{
+	Race 8
+	Class 7
+	Spell 20558
+	Note "Throwing Specialization"
+}
+{
+	Race 8
+	Class 7
+	Spell 21651
+	Note Opening
+}
+{
+	Race 8
+	Class 7
+	Spell 21652
+	Note Closing
+}
+{
+	Race 8
+	Class 7
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 8
+	Class 7
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 8
+	Class 7
+	Spell 26290
+	Note "Bow Specialization"
+}
+{
+	Race 8
+	Class 7
+	Spell 27763
+	Note Totem
+}
+{
+	Race 8
+	Class 8
+	Spell 81
+	Note Dodge
+}
+{
+	Race 8
+	Class 8
+	Spell 133
+	Note Fireball
+}
+{
+	Race 8
+	Class 8
+	Spell 168
+	Note "Frost Armor"
+}
+{
+	Race 8
+	Class 8
+	Spell 203
+	Note Unarmed
+}
+{
+	Race 8
+	Class 8
+	Spell 204
+	Note Defense
+}
+{
+	Race 8
+	Class 8
+	Spell 227
+	Note Staves
+}
+{
+	Race 8
+	Class 8
+	Spell 522
+	Note "SPELLDEFENSE (DND)"
+}
+{
+	Race 8
+	Class 8
+	Spell 669
+	Note "Language Orcish"
+}
+{
+	Race 8
+	Class 8
+	Spell 2382
+	Note Generic
+}
+{
+	Race 8
+	Class 8
+	Spell 2479
+	Note "Honorless Target"
+}
+{
+	Race 8
+	Class 8
+	Spell 3050
+	Note Detect
+}
+{
+	Race 8
+	Class 8
+	Spell 3365
+	Note Opening
+}
+{
+	Race 8
+	Class 8
+	Spell 5009
+	Note Wands
+}
+{
+	Race 8
+	Class 8
+	Spell 5019
+	Note Shoot
+}
+{
+	Race 8
+	Class 8
+	Spell 6233
+	Note Closing
+}
+{
+	Race 8
+	Class 8
+	Spell 6246
+	Note Closing
+}
+{
+	Race 8
+	Class 8
+	Spell 6247
+	Note Opening
+}
+{
+	Race 8
+	Class 8
+	Spell 6477
+	Note Opening
+}
+{
+	Race 8
+	Class 8
+	Spell 6478
+	Note Opening
+}
+{
+	Race 8
+	Class 8
+	Spell 6603
+	Note Attack
+}
+{
+	Race 8
+	Class 8
+	Spell 7266
+	Note Duel
+}
+{
+	Race 8
+	Class 8
+	Spell 7267
+	Note Grovel
+}
+{
+	Race 8
+	Class 8
+	Spell 7341
+	Note "Language Troll"
+}
+{
+	Race 8
+	Class 8
+	Spell 7355
+	Note Stuck
+}
+{
+	Race 8
+	Class 8
+	Spell 8386
+	Note Attacking
+}
+{
+	Race 8
+	Class 8
+	Spell 9078
+	Note Cloth
+}
+{
+	Race 8
+	Class 8
+	Spell 9125
+	Note Generic
+}
+{
+	Race 8
+	Class 8
+	Spell 20554
+	Note Berserking
+}
+{
+	Race 8
+	Class 8
+	Spell 20555
+	Note Regeneration
+}
+{
+	Race 8
+	Class 8
+	Spell 20557
+	Note "Beast Slaying"
+}
+{
+	Race 8
+	Class 8
+	Spell 20558
+	Note "Throwing Specialization"
+}
+{
+	Race 8
+	Class 8
+	Spell 21651
+	Note Opening
+}
+{
+	Race 8
+	Class 8
+	Spell 21652
+	Note Closing
+}
+{
+	Race 8
+	Class 8
+	Spell 22027
+	Note "Remove Insignia"
+}
+{
+	Race 8
+	Class 8
+	Spell 22810
+	Note "Opening - No Text"
+}
+{
+	Race 8
+	Class 8
+	Spell 26290
+	Note "Bow Specialization"
+}

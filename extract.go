@@ -17,6 +17,40 @@ import (
 	"xorm.io/xorm"
 )
 
+type PlayerCreateItem struct {
+	Race   uint8
+	Class  uint8
+	ItemID uint32
+	Amount uint32
+}
+
+func (PlayerCreateItem) TableName() string {
+	return "Playercreateinfo_item"
+}
+
+type PlayerCreateInfoSpell struct {
+	Race  uint8
+	Class uint8
+	Spell uint32
+	Note  string
+}
+
+func (PlayerCreateInfoSpell) TableName() string {
+	return "Playercreateinfo_spell"
+}
+
+type PlayerCreateActionButton struct {
+	Race   uint8
+	Class  uint8
+	Button uint8
+	Action uint32
+	Type   uint8
+}
+
+func (PlayerCreateActionButton) TableName() string {
+	return "Playercreateinfo_action"
+}
+
 type NPCText struct {
 	ID      uint32  `xorm:"'id'"`
 	Text0_0 string  `xorm:"'text0_0'"`
@@ -149,7 +183,7 @@ type PlayerCreateInfo struct {
 }
 
 func (pci PlayerCreateInfo) TableName() string {
-	return "playercreateinfo"
+	return "Playercreateinfo"
 }
 
 type GameTele struct {
@@ -519,19 +553,82 @@ func main() {
 		panic(err)
 	}
 
+	var pca []PlayerCreateActionButton
+	err = c.Find(&pca)
+	if err != nil {
+		panic(err)
+	}
+	fl := openFile("DB/PlayerCreateActionButton.txt")
+	printTimestamp(fl)
+	wr := openTextWriter(fl)
+	for _, pcab := range pca {
+		if err := wr.Encode(wdb.PlayerCreateActionButton{
+			Race:   int8(pcab.Race),
+			Class:  int8(pcab.Class),
+			Button: pcab.Button,
+			Action: pcab.Action,
+			Type:   pcab.Type,
+		}); err != nil {
+			panic(err)
+		}
+	}
+
+	fl.Close()
+
+	var pcs []PlayerCreateInfoSpell
+	err = c.Find(&pcs)
+	if err != nil {
+		panic(err)
+	}
+	fl = openFile("DB/PlayerCreateAbility.txt")
+	printTimestamp(fl)
+	wr = openTextWriter(fl)
+	for _, pcab := range pcs {
+		if err := wr.Encode(wdb.PlayerCreateAbility{
+			Race:  int8(pcab.Race),
+			Class: int8(pcab.Class),
+			Spell: pcab.Spell,
+			Note:  pcab.Note,
+		}); err != nil {
+			panic(err)
+		}
+	}
+
+	fl.Close()
+
+	// var pcis []PlayerCreateItem
+	// err = c.Find(&pcis)
+
+	// fl = openFile("DB/PlayerCreateItem.txt")
+	// printTimestamp(fl)
+
+	// wr = openTextWriter(fl)
+	// for _, pci := range pcis {
+	// 	if err := wr.Encode(wdb.PlayerCreateItem{
+	// 		Race:   int8(pci.Race),
+	// 		Class:  int8(pci.Class),
+	// 		ItemID: fmt.Sprintf("it:%d", pci.ItemID),
+	// 		Amount: pci.Amount,
+	// 	}); err != nil {
+	// 		panic(err)
+	// 	}
+	// }
+
+	// fl.Close()
+
 	var gt []GameTele
 	err = c.Find(&gt)
 	if err != nil {
 		panic(err)
 	}
 
-	plc := openFile("DB/PortLocation.txt")
+	fl = openFile("DB/PortLocation.txt")
 
-	printTimestamp(plc)
-	pwr := openTextWriter(plc)
+	printTimestamp(fl)
+	wr = openTextWriter(fl)
 
 	for _, pl := range gt {
-		if err := pwr.Encode(wdb.PortLocation{
+		if err := wr.Encode(wdb.PortLocation{
 			ID:  pl.Name,
 			X:   pl.PositionX,
 			Y:   pl.PositionY,
@@ -543,7 +640,7 @@ func main() {
 		}
 	}
 
-	plc.Close()
+	fl.Close()
 
 	var itt []ItemTemplate
 	err = c.Find(&itt)
@@ -551,8 +648,8 @@ func main() {
 		panic(err)
 	}
 
-	fl := openFile("DB/NPCText.txt")
-	wr := text.NewEncoder(fl)
+	fl = openFile("DB/NPCText.txt")
+	wr = text.NewEncoder(fl)
 
 	var npcText []NPCText
 
