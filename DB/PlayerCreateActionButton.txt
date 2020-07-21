@@ -2,19 +2,19 @@
 {
 	Race 1
 	Class 1
-	Button 72
+	Button 0
 	Action 6603
 }
 {
 	Race 1
 	Class 1
-	Button 73
+	Button 1
 	Action 78
 }
 {
 	Race 1
 	Class 1
-	Button 83
+	Button 11
 	Action 117
 	Type 128
 }
@@ -175,25 +175,25 @@
 {
 	Race 2
 	Class 1
-	Button 72
+	Button 0
 	Action 6603
 }
 {
 	Race 2
 	Class 1
-	Button 73
+	Button 1
 	Action 78
 }
 {
 	Race 2
 	Class 1
-	Button 74
+	Button 2
 	Action 20572
 }
 {
 	Race 2
 	Class 1
-	Button 83
+	Button 11
 	Action 117
 	Type 128
 }
@@ -549,25 +549,25 @@
 {
 	Race 4
 	Class 1
-	Button 72
+	Button 0
 	Action 6603
 }
 {
 	Race 4
 	Class 1
-	Button 73
+	Button 1
 	Action 78
 }
 {
 	Race 4
 	Class 1
-	Button 74
+	Button 2
 	Action 20580
 }
 {
 	Race 4
 	Class 1
-	Button 83
+	Button 11
 	Action 117
 	Type 128
 }
@@ -715,25 +715,25 @@
 {
 	Race 5
 	Class 1
-	Button 72
+	Button 0
 	Action 6603
 }
 {
 	Race 5
 	Class 1
-	Button 73
+	Button 1
 	Action 78
 }
 {
 	Race 5
 	Class 1
-	Button 74
+	Button 2
 	Action 20577
 }
 {
 	Race 5
 	Class 1
-	Button 83
+	Button 11
 	Action 4604
 	Type 128
 }
@@ -1023,19 +1023,19 @@
 {
 	Race 7
 	Class 1
-	Button 72
+	Button 0
 	Action 6603
 }
 {
 	Race 7
 	Class 1
-	Button 73
+	Button 1
 	Action 78
 }
 {
 	Race 7
 	Class 1
-	Button 83
+	Button 2
 	Action 117
 	Type 128
 }
@@ -1134,31 +1134,31 @@
 {
 	Race 8
 	Class 1
-	Button 72
+	Button 0
 	Action 6603
 }
 {
 	Race 8
 	Class 1
-	Button 73
+	Button 1
 	Action 78
 }
 {
 	Race 8
 	Class 1
-	Button 74
+	Button 2
 	Action 2764
 }
 {
 	Race 8
 	Class 1
-	Button 75
+	Button 3
 	Action 26296
 }
 {
 	Race 8
 	Class 1
-	Button 83
+	Button 11
 	Action 117
 	Type 128
 }

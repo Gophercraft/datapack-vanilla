@@ -17,6 +17,15 @@ import (
 	"xorm.io/xorm"
 )
 
+type ExperienceForLevel struct {
+	Lvl uint32 `xorm:"'lvl'"`
+	XP  uint32 `xorm:"'xp_for_next_level'"`
+}
+
+func (exp ExperienceForLevel) TableName() string {
+	return "player_xp_for_level"
+}
+
 type PlayerCreateItem struct {
 	Race   uint8
 	Class  uint8
@@ -552,6 +561,31 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
+
+	var fl *os.File
+	var wr *text.Encoder
+	var levelXP []ExperienceForLevel
+
+	err = c.Find(&levelXP)
+	if err != nil {
+		panic(err)
+	}
+
+	fl = openFile("DB/LevelExperience.txt")
+	printTimestamp(fl)
+	wr = openTextWriter(fl)
+
+	exp := wdb.LevelExperience{}
+
+	for _, lexp := range levelXP {
+		exp[lexp.Lvl] = lexp.XP
+	}
+
+	if err := wr.Encode(exp); err != nil {
+		panic(err)
+	}
+
+	fl.Close()
 
 	// Disabled due to containing incorrect results.
 	// var pca []PlayerCreateActionButton

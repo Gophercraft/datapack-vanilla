@@ -1,1 +1,6 @@
-
+{
+  Race -1
+  Class -1
+  // Everyone starts out with a hearthstone.
+  ItemID it:6948
+}
